@@ -1,0 +1,1719 @@
+Event_ID,Date,Shift,Dryer_ID,Reason,Category,Duration_Min
+1,2026-01-01,Day,DRYER_1,Dryer plug / material buildup,Process,35
+2,2026-01-01,Day,DRYER_1,Dryer plug / material buildup,Process,15
+3,2026-01-01,Day,DRYER_2,Wet bin plug,Process,25
+4,2026-01-01,Day,DRYER_2,Moisture control out of spec,Process,30
+5,2026-01-01,Day,DRYER_2,Moisture control out of spec,Process,20
+6,2026-01-01,Day,DRYER_2,Operator adjustment,Process,10
+7,2026-01-01,Day,DRYER_2,Operator adjustment,Process,10
+8,2026-01-01,Night,DRYER_1,Drive motor fault,Electrical,115
+9,2026-01-01,Night,DRYER_1,Screen change,Changeover,100
+10,2026-01-01,Night,DRYER_1,Minor jam clearing,Mechanical,5
+11,2026-01-01,Night,DRYER_2,Dryer plug / material buildup,Process,15
+12,2026-01-01,Night,DRYER_2,Minor jam clearing,Mechanical,5
+13,2026-01-01,Night,DRYER_2,Dry bin full,Blocked,86
+14,2026-01-02,Night,DRYER_1,Wet bin empty,Starved,33
+15,2026-01-02,Night,DRYER_2,ID fan damper fault,Mechanical,35
+16,2026-01-03,Day,DRYER_1,Sensor fault reset,Electrical,10
+17,2026-01-03,Day,DRYER_1,Minor jam clearing,Mechanical,5
+18,2026-01-03,Day,DRYER_1,Green end down - flaker,Starved,27
+19,2026-01-03,Day,DRYER_1,Press down,Blocked,29
+20,2026-01-03,Night,DRYER_1,Moisture control out of spec,Process,15
+21,2026-01-03,Night,DRYER_1,Wet bin empty,Starved,47
+22,2026-01-03,Night,DRYER_2,Burner flame-out,Process,45
+23,2026-01-03,Night,DRYER_2,Moisture control out of spec,Process,25
+24,2026-01-04,Day,DRYER_1,Minor jam clearing,Mechanical,5
+25,2026-01-04,Day,DRYER_2,Moisture control out of spec,Process,15
+26,2026-01-04,Day,DRYER_2,Operator adjustment,Process,5
+27,2026-01-04,Day,DRYER_2,Press down,Blocked,87
+28,2026-01-04,Night,DRYER_1,Belt tracking,Mechanical,35
+29,2026-01-04,Night,DRYER_1,Dryer plug / material buildup,Process,45
+30,2026-01-04,Night,DRYER_1,Press down,Blocked,21
+31,2026-01-04,Night,DRYER_2,Operator adjustment,Process,10
+32,2026-01-04,Night,DRYER_2,Operator adjustment,Process,5
+33,2026-01-04,Night,DRYER_2,Operator adjustment,Process,5
+34,2026-01-05,Day,DRYER_1,Belt tracking,Mechanical,25
+35,2026-01-05,Day,DRYER_1,Wet bin plug,Process,40
+36,2026-01-05,Day,DRYER_1,Operator adjustment,Process,25
+37,2026-01-05,Day,DRYER_2,Screen change,Changeover,40
+38,2026-01-05,Day,DRYER_2,Moisture control out of spec,Process,25
+39,2026-01-05,Day,DRYER_2,Green end down - flaker,Starved,66
+40,2026-01-05,Day,DRYER_2,Dry bin full,Blocked,35
+41,2026-01-05,Night,DRYER_1,Green end down - flaker,Starved,54
+42,2026-01-05,Night,DRYER_1,Dry bin full,Blocked,55
+43,2026-01-05,Night,DRYER_1,Dry bin full,Blocked,34
+44,2026-01-05,Night,DRYER_2,Drive motor fault,Electrical,210
+45,2026-01-05,Night,DRYER_2,Temperature control loop fault,Electrical,15
+46,2026-01-05,Night,DRYER_2,Minor jam clearing,Mechanical,5
+47,2026-01-05,Night,DRYER_2,Press down,Blocked,34
+48,2026-01-05,Night,DRYER_2,Wet bin empty,Starved,36
+49,2026-01-06,Day,DRYER_1,ID fan damper fault,Mechanical,30
+50,2026-01-06,Day,DRYER_2,Wet bin plug,Process,30
+51,2026-01-06,Day,DRYER_2,Moisture control out of spec,Process,30
+52,2026-01-06,Day,DRYER_2,Operator adjustment,Process,10
+53,2026-01-06,Night,DRYER_1,Operator adjustment,Process,15
+54,2026-01-06,Night,DRYER_2,Minor jam clearing,Mechanical,5
+55,2026-01-07,Day,DRYER_1,Moisture control out of spec,Process,25
+56,2026-01-07,Day,DRYER_1,Temperature control loop fault,Electrical,15
+57,2026-01-07,Day,DRYER_2,Wet bin plug,Process,30
+58,2026-01-07,Day,DRYER_2,Dry bin full,Blocked,69
+59,2026-01-07,Night,DRYER_1,Spark detection trip,Fire/Safety,135
+60,2026-01-07,Night,DRYER_1,Moisture control out of spec,Process,25
+61,2026-01-07,Night,DRYER_1,Minor jam clearing,Mechanical,5
+62,2026-01-07,Night,DRYER_1,Dry bin full,Blocked,53
+63,2026-01-07,Night,DRYER_2,Belt tracking,Mechanical,15
+64,2026-01-07,Night,DRYER_2,Green end down - flaker,Starved,19
+65,2026-01-08,Day,DRYER_2,Temperature control loop fault,Electrical,20
+66,2026-01-08,Day,DRYER_2,Moisture control out of spec,Process,30
+67,2026-01-08,Day,DRYER_2,Minor jam clearing,Mechanical,5
+68,2026-01-08,Day,DRYER_2,Dry bin full,Blocked,50
+69,2026-01-08,Night,DRYER_1,Minor jam clearing,Mechanical,10
+70,2026-01-08,Night,DRYER_1,Operator adjustment,Process,10
+71,2026-01-08,Night,DRYER_2,Sensor fault reset,Electrical,5
+72,2026-01-09,Day,DRYER_2,Moisture control out of spec,Process,55
+73,2026-01-09,Night,DRYER_2,Sensor fault reset,Electrical,5
+74,2026-01-09,Night,DRYER_2,Operator adjustment,Process,10
+75,2026-01-10,Day,DRYER_1,Dryer plug / material buildup,Process,35
+76,2026-01-10,Day,DRYER_1,Dryer plug / material buildup,Process,20
+77,2026-01-10,Day,DRYER_1,Moisture control out of spec,Process,15
+78,2026-01-10,Day,DRYER_1,Moisture control out of spec,Process,65
+79,2026-01-10,Day,DRYER_1,Sensor fault reset,Electrical,5
+80,2026-01-10,Day,DRYER_2,Spark detection trip,Fire/Safety,120
+81,2026-01-10,Day,DRYER_2,Belt tracking,Mechanical,25
+82,2026-01-10,Day,DRYER_2,Minor jam clearing,Mechanical,10
+83,2026-01-10,Day,DRYER_2,Green end down - flaker,Starved,18
+84,2026-01-10,Day,DRYER_2,Green end down - flaker,Starved,32
+85,2026-01-10,Night,DRYER_1,Cyclone plug,Process,75
+86,2026-01-10,Night,DRYER_1,Sensor fault reset,Electrical,5
+87,2026-01-10,Night,DRYER_1,Green end down - flaker,Starved,19
+88,2026-01-10,Night,DRYER_2,Green end down - flaker,Starved,23
+89,2026-01-11,Day,DRYER_1,Wet bin empty,Starved,28
+90,2026-01-11,Day,DRYER_1,Green end down - flaker,Starved,69
+91,2026-01-11,Day,DRYER_1,Press down,Blocked,40
+92,2026-01-11,Day,DRYER_2,Burner flame-out,Process,170
+93,2026-01-11,Night,DRYER_1,Dry bin full,Blocked,69
+94,2026-01-11,Night,DRYER_1,Green end down - flaker,Starved,41
+95,2026-01-11,Night,DRYER_1,Green end down - flaker,Starved,102
+96,2026-01-12,Day,DRYER_1,Dryer plug / material buildup,Process,20
+97,2026-01-12,Day,DRYER_2,Wet bin plug,Process,40
+98,2026-01-12,Night,DRYER_1,Sensor fault reset,Electrical,5
+99,2026-01-12,Night,DRYER_1,Minor jam clearing,Mechanical,15
+100,2026-01-13,Day,DRYER_1,Spark detection trip,Fire/Safety,120
+101,2026-01-13,Day,DRYER_1,Cyclone plug,Process,45
+102,2026-01-13,Day,DRYER_1,Temperature control loop fault,Electrical,75
+103,2026-01-13,Day,DRYER_1,Moisture control out of spec,Process,15
+104,2026-01-13,Day,DRYER_1,Dry bin full,Blocked,79
+105,2026-01-13,Day,DRYER_1,Press down,Blocked,94
+106,2026-01-13,Day,DRYER_1,Press down,Blocked,27
+107,2026-01-13,Day,DRYER_2,Cyclone plug,Process,55
+108,2026-01-13,Day,DRYER_2,Belt tracking,Mechanical,15
+109,2026-01-13,Night,DRYER_1,Temperature control loop fault,Electrical,25
+110,2026-01-13,Night,DRYER_1,Temperature control loop fault,Electrical,15
+111,2026-01-13,Night,DRYER_1,Sensor fault reset,Electrical,5
+112,2026-01-13,Night,DRYER_2,Press down,Blocked,27
+113,2026-01-14,Day,DRYER_1,Press down,Blocked,29
+114,2026-01-14,Day,DRYER_1,Wet bin empty,Starved,52
+115,2026-01-14,Day,DRYER_2,Green end down - flaker,Starved,20
+116,2026-01-14,Night,DRYER_1,Dryer plug / material buildup,Process,35
+117,2026-01-14,Night,DRYER_1,Belt tracking,Mechanical,10
+118,2026-01-14,Night,DRYER_1,Press down,Blocked,82
+119,2026-01-14,Night,DRYER_2,Minor jam clearing,Mechanical,5
+120,2026-01-14,Night,DRYER_2,Green end down - flaker,Starved,25
+121,2026-01-14,Night,DRYER_2,Wet bin empty,Starved,26
+122,2026-01-15,Day,DRYER_1,Moisture control out of spec,Process,25
+123,2026-01-15,Day,DRYER_1,Belt tracking,Mechanical,20
+124,2026-01-15,Day,DRYER_1,Operator adjustment,Process,10
+125,2026-01-15,Night,DRYER_1,Belt tracking,Mechanical,20
+126,2026-01-15,Night,DRYER_1,Wet bin plug,Process,20
+127,2026-01-15,Night,DRYER_1,Operator adjustment,Process,5
+128,2026-01-15,Night,DRYER_1,Operator adjustment,Process,10
+129,2026-01-15,Night,DRYER_1,Wet bin empty,Starved,87
+130,2026-01-15,Night,DRYER_1,Press down,Blocked,58
+131,2026-01-15,Night,DRYER_2,Operator adjustment,Process,10
+132,2026-01-15,Night,DRYER_2,Wet bin empty,Starved,23
+133,2026-01-15,Night,DRYER_2,Green end down - flaker,Starved,114
+134,2026-01-16,Day,DRYER_1,Spark detection trip,Fire/Safety,70
+135,2026-01-16,Day,DRYER_1,Sensor fault reset,Electrical,5
+136,2026-01-16,Day,DRYER_2,Burner flame-out,Process,45
+137,2026-01-16,Day,DRYER_2,Moisture control out of spec,Process,15
+138,2026-01-16,Day,DRYER_2,Operator adjustment,Process,10
+139,2026-01-16,Day,DRYER_2,Green end down - flaker,Starved,31
+140,2026-01-16,Day,DRYER_2,Press down,Blocked,27
+141,2026-01-16,Night,DRYER_1,Burner flame-out,Process,65
+142,2026-01-16,Night,DRYER_1,Moisture control out of spec,Process,50
+143,2026-01-16,Night,DRYER_1,Wet bin plug,Process,35
+144,2026-01-16,Night,DRYER_2,Dry bin full,Blocked,12
+145,2026-01-17,Day,DRYER_1,Moisture control out of spec,Process,30
+146,2026-01-17,Day,DRYER_1,Temperature control loop fault,Electrical,30
+147,2026-01-17,Day,DRYER_1,Operator adjustment,Process,10
+148,2026-01-17,Day,DRYER_1,Operator adjustment,Process,10
+149,2026-01-17,Day,DRYER_1,Press down,Blocked,46
+150,2026-01-17,Day,DRYER_2,Minor jam clearing,Mechanical,5
+151,2026-01-17,Day,DRYER_2,Minor jam clearing,Mechanical,10
+152,2026-01-17,Day,DRYER_2,Operator adjustment,Process,5
+153,2026-01-17,Day,DRYER_2,Minor jam clearing,Mechanical,10
+154,2026-01-17,Night,DRYER_1,Burner flame-out,Process,90
+155,2026-01-17,Night,DRYER_2,Spark detection trip,Fire/Safety,105
+156,2026-01-17,Night,DRYER_2,Dry bin full,Blocked,40
+157,2026-01-18,Day,DRYER_1,Dryer plug / material buildup,Process,10
+158,2026-01-18,Day,DRYER_2,Operator adjustment,Process,10
+159,2026-01-18,Day,DRYER_2,Minor jam clearing,Mechanical,5
+160,2026-01-18,Night,DRYER_1,Sensor fault reset,Electrical,5
+161,2026-01-18,Night,DRYER_2,Wet bin empty,Starved,40
+162,2026-01-18,Night,DRYER_2,Wet bin empty,Starved,37
+163,2026-01-19,Day,DRYER_1,Temperature control loop fault,Electrical,15
+164,2026-01-19,Day,DRYER_2,Moisture control out of spec,Process,15
+165,2026-01-19,Day,DRYER_2,Green end down - flaker,Starved,11
+166,2026-01-19,Night,DRYER_1,Belt tracking,Mechanical,15
+167,2026-01-19,Night,DRYER_1,Green end down - flaker,Starved,14
+168,2026-01-19,Night,DRYER_2,ID fan damper fault,Mechanical,20
+169,2026-01-19,Night,DRYER_2,Operator adjustment,Process,10
+170,2026-01-19,Night,DRYER_2,Green end down - flaker,Starved,46
+171,2026-01-19,Night,DRYER_2,Wet bin empty,Starved,29
+172,2026-01-20,Day,DRYER_1,Burner flame-out,Process,30
+173,2026-01-20,Day,DRYER_1,Moisture control out of spec,Process,30
+174,2026-01-20,Day,DRYER_1,Minor jam clearing,Mechanical,5
+175,2026-01-20,Day,DRYER_2,Sensor fault reset,Electrical,5
+176,2026-01-20,Day,DRYER_2,Operator adjustment,Process,10
+177,2026-01-20,Night,DRYER_1,Minor jam clearing,Mechanical,15
+178,2026-01-20,Night,DRYER_1,Wet bin empty,Starved,37
+179,2026-01-21,Day,DRYER_1,Temperature control loop fault,Electrical,20
+180,2026-01-21,Day,DRYER_2,Dryer plug / material buildup,Process,45
+181,2026-01-21,Day,DRYER_2,Sensor fault reset,Electrical,5
+182,2026-01-21,Night,DRYER_1,Wet bin plug,Process,15
+183,2026-01-21,Night,DRYER_1,Operator adjustment,Process,10
+184,2026-01-21,Night,DRYER_1,Press down,Blocked,31
+185,2026-01-21,Night,DRYER_1,Press down,Blocked,53
+186,2026-01-21,Night,DRYER_1,Dry bin full,Blocked,105
+187,2026-01-21,Night,DRYER_2,Minor jam clearing,Mechanical,5
+188,2026-01-22,Day,DRYER_1,Press down,Blocked,50
+189,2026-01-22,Day,DRYER_2,ID fan damper fault,Mechanical,15
+190,2026-01-22,Day,DRYER_2,Operator adjustment,Process,10
+191,2026-01-22,Night,DRYER_1,Temperature control loop fault,Electrical,15
+192,2026-01-22,Night,DRYER_1,Operator adjustment,Process,10
+193,2026-01-23,Day,DRYER_1,Screen change,Changeover,35
+194,2026-01-23,Day,DRYER_1,Dry bin full,Blocked,46
+195,2026-01-23,Night,DRYER_1,Wet bin plug,Process,40
+196,2026-01-23,Night,DRYER_1,Minor jam clearing,Mechanical,5
+197,2026-01-23,Night,DRYER_2,Temperature control loop fault,Electrical,20
+198,2026-01-23,Night,DRYER_2,Moisture control out of spec,Process,20
+199,2026-01-23,Night,DRYER_2,Belt tracking,Mechanical,10
+200,2026-01-23,Night,DRYER_2,Wet bin empty,Starved,42
+201,2026-01-24,Day,DRYER_1,Moisture control out of spec,Process,40
+202,2026-01-24,Day,DRYER_2,Wet bin plug,Process,25
+203,2026-01-24,Day,DRYER_2,Minor jam clearing,Mechanical,5
+204,2026-01-24,Day,DRYER_2,Dry bin full,Blocked,103
+205,2026-01-24,Night,DRYER_1,ID fan damper fault,Mechanical,40
+206,2026-01-24,Night,DRYER_1,Dryer plug / material buildup,Process,30
+207,2026-01-24,Night,DRYER_1,Wet bin empty,Starved,35
+208,2026-01-24,Night,DRYER_1,Press down,Blocked,31
+209,2026-01-24,Night,DRYER_2,Wet bin plug,Process,35
+210,2026-01-24,Night,DRYER_2,Green end down - flaker,Starved,66
+211,2026-01-25,Day,DRYER_1,Dryer plug / material buildup,Process,60
+212,2026-01-25,Day,DRYER_1,Green end down - flaker,Starved,30
+213,2026-01-25,Night,DRYER_1,Screen change,Changeover,65
+214,2026-01-25,Night,DRYER_1,Belt tracking,Mechanical,10
+215,2026-01-25,Night,DRYER_1,Minor jam clearing,Mechanical,10
+216,2026-01-25,Night,DRYER_2,Wet bin plug,Process,35
+217,2026-01-25,Night,DRYER_2,Belt tracking,Mechanical,20
+218,2026-01-26,Day,DRYER_2,Dry bin full,Blocked,59
+219,2026-01-26,Night,DRYER_1,Burner flame-out,Process,35
+220,2026-01-26,Night,DRYER_1,Minor jam clearing,Mechanical,5
+221,2026-01-26,Night,DRYER_2,Operator adjustment,Process,10
+222,2026-01-27,Day,DRYER_1,Operator adjustment,Process,5
+223,2026-01-27,Day,DRYER_2,Wet bin plug,Process,25
+224,2026-01-27,Day,DRYER_2,Wet bin empty,Starved,72
+225,2026-01-27,Day,DRYER_2,Dry bin full,Blocked,26
+226,2026-01-27,Day,DRYER_2,Green end down - flaker,Starved,24
+227,2026-01-27,Night,DRYER_1,Moisture control out of spec,Process,20
+228,2026-01-27,Night,DRYER_1,Moisture control out of spec,Process,40
+229,2026-01-27,Night,DRYER_1,Sensor fault reset,Electrical,5
+230,2026-01-27,Night,DRYER_2,ID fan damper fault,Mechanical,10
+231,2026-01-27,Night,DRYER_2,Moisture control out of spec,Process,20
+232,2026-01-27,Night,DRYER_2,Minor jam clearing,Mechanical,5
+233,2026-01-27,Night,DRYER_2,Sensor fault reset,Electrical,5
+234,2026-01-28,Day,DRYER_1,Temperature control loop fault,Electrical,30
+235,2026-01-28,Day,DRYER_1,Temperature control loop fault,Electrical,15
+236,2026-01-28,Day,DRYER_2,Sensor fault reset,Electrical,10
+237,2026-01-28,Day,DRYER_2,Minor jam clearing,Mechanical,5
+238,2026-01-28,Night,DRYER_1,Moisture control out of spec,Process,15
+239,2026-01-28,Night,DRYER_1,Temperature control loop fault,Electrical,30
+240,2026-01-28,Night,DRYER_1,Sensor fault reset,Electrical,5
+241,2026-01-28,Night,DRYER_1,Dry bin full,Blocked,64
+242,2026-01-28,Night,DRYER_1,Green end down - flaker,Starved,27
+243,2026-01-28,Night,DRYER_2,Wet bin plug,Process,60
+244,2026-01-28,Night,DRYER_2,Dry bin full,Blocked,50
+245,2026-01-29,Day,DRYER_1,Dryer plug / material buildup,Process,35
+246,2026-01-29,Day,DRYER_1,Moisture control out of spec,Process,20
+247,2026-01-29,Day,DRYER_1,Dryer plug / material buildup,Process,35
+248,2026-01-29,Day,DRYER_1,Sensor fault reset,Electrical,5
+249,2026-01-29,Night,DRYER_1,Moisture control out of spec,Process,25
+250,2026-01-29,Night,DRYER_1,Dryer plug / material buildup,Process,30
+251,2026-01-29,Night,DRYER_1,Minor jam clearing,Mechanical,10
+252,2026-01-29,Night,DRYER_1,Wet bin empty,Starved,27
+253,2026-01-30,Day,DRYER_1,Operator adjustment,Process,10
+254,2026-01-30,Day,DRYER_1,Green end down - flaker,Starved,43
+255,2026-01-30,Day,DRYER_2,Wet bin plug,Process,25
+256,2026-01-30,Day,DRYER_2,Minor jam clearing,Mechanical,10
+257,2026-01-30,Night,DRYER_1,Discharge conveyor bearing,Mechanical,150
+258,2026-01-30,Night,DRYER_1,ID fan damper fault,Mechanical,20
+259,2026-01-30,Night,DRYER_1,Press down,Blocked,9
+260,2026-01-30,Night,DRYER_2,Dryer plug / material buildup,Process,40
+261,2026-01-30,Night,DRYER_2,Wet bin empty,Starved,95
+262,2026-01-31,Day,DRYER_1,Moisture control out of spec,Process,50
+263,2026-01-31,Day,DRYER_1,Minor jam clearing,Mechanical,5
+264,2026-01-31,Day,DRYER_1,Operator adjustment,Process,5
+265,2026-01-31,Day,DRYER_1,Sensor fault reset,Electrical,5
+266,2026-01-31,Day,DRYER_1,Operator adjustment,Process,10
+267,2026-01-31,Day,DRYER_2,ID fan damper fault,Mechanical,15
+268,2026-01-31,Day,DRYER_2,Minor jam clearing,Mechanical,15
+269,2026-01-31,Day,DRYER_2,Wet bin empty,Starved,37
+270,2026-01-31,Night,DRYER_1,Wet bin empty,Starved,98
+271,2026-01-31,Night,DRYER_2,Moisture control out of spec,Process,20
+272,2026-01-31,Night,DRYER_2,Minor jam clearing,Mechanical,5
+273,2026-01-31,Night,DRYER_2,Dry bin full,Blocked,27
+274,2026-02-01,Night,DRYER_2,Screen change,Changeover,110
+275,2026-02-01,Night,DRYER_2,Drag chain failure,Mechanical,190
+276,2026-02-01,Night,DRYER_2,Operator adjustment,Process,10
+277,2026-02-01,Night,DRYER_2,Press down,Blocked,23
+278,2026-02-01,Night,DRYER_2,Wet bin empty,Starved,56
+279,2026-02-02,Day,DRYER_1,Screen change,Changeover,20
+280,2026-02-02,Day,DRYER_1,Belt tracking,Mechanical,20
+281,2026-02-02,Day,DRYER_1,Operator adjustment,Process,10
+282,2026-02-02,Night,DRYER_1,Moisture control out of spec,Process,15
+283,2026-02-02,Night,DRYER_1,Press down,Blocked,69
+284,2026-02-03,Day,DRYER_1,Screen change,Changeover,95
+285,2026-02-03,Day,DRYER_1,Belt tracking,Mechanical,15
+286,2026-02-03,Day,DRYER_1,Dry bin full,Blocked,39
+287,2026-02-03,Day,DRYER_2,Dryer plug / material buildup,Process,20
+288,2026-02-03,Day,DRYER_2,Operator adjustment,Process,5
+289,2026-02-03,Day,DRYER_2,Sensor fault reset,Electrical,5
+290,2026-02-03,Day,DRYER_2,Minor jam clearing,Mechanical,5
+291,2026-02-03,Night,DRYER_1,Wet bin plug,Process,30
+292,2026-02-03,Night,DRYER_1,Press down,Blocked,56
+293,2026-02-03,Night,DRYER_1,Press down,Blocked,109
+294,2026-02-03,Night,DRYER_1,Dry bin full,Blocked,45
+295,2026-02-03,Night,DRYER_1,Dry bin full,Blocked,16
+296,2026-02-03,Night,DRYER_2,Wet bin plug,Process,30
+297,2026-02-03,Night,DRYER_2,Minor jam clearing,Mechanical,5
+298,2026-02-03,Night,DRYER_2,Operator adjustment,Process,5
+299,2026-02-03,Night,DRYER_2,Sensor fault reset,Electrical,5
+300,2026-02-03,Night,DRYER_2,Minor jam clearing,Mechanical,5
+301,2026-02-03,Night,DRYER_2,Wet bin empty,Starved,37
+302,2026-02-03,Night,DRYER_2,Press down,Blocked,25
+303,2026-02-04,Day,DRYER_2,Dryer plug / material buildup,Process,25
+304,2026-02-04,Night,DRYER_1,Wet bin plug,Process,25
+305,2026-02-04,Night,DRYER_1,Belt tracking,Mechanical,20
+306,2026-02-04,Night,DRYER_1,Operator adjustment,Process,15
+307,2026-02-04,Night,DRYER_1,Dry bin full,Blocked,24
+308,2026-02-04,Night,DRYER_1,Green end down - flaker,Starved,15
+309,2026-02-04,Night,DRYER_2,Screen change,Changeover,60
+310,2026-02-04,Night,DRYER_2,Minor jam clearing,Mechanical,10
+311,2026-02-04,Night,DRYER_2,Operator adjustment,Process,10
+312,2026-02-04,Night,DRYER_2,Operator adjustment,Process,5
+313,2026-02-04,Night,DRYER_2,Green end down - flaker,Starved,72
+314,2026-02-04,Night,DRYER_2,Wet bin empty,Starved,40
+315,2026-02-05,Day,DRYER_1,Belt tracking,Mechanical,25
+316,2026-02-05,Day,DRYER_1,Dryer plug / material buildup,Process,25
+317,2026-02-05,Day,DRYER_1,Sensor fault reset,Electrical,5
+318,2026-02-05,Day,DRYER_1,Sensor fault reset,Electrical,10
+319,2026-02-05,Day,DRYER_2,Burner flame-out,Process,50
+320,2026-02-05,Day,DRYER_2,Sensor fault reset,Electrical,5
+321,2026-02-05,Day,DRYER_2,Press down,Blocked,27
+322,2026-02-05,Night,DRYER_1,Dryer plug / material buildup,Process,25
+323,2026-02-05,Night,DRYER_1,Wet bin plug,Process,20
+324,2026-02-05,Night,DRYER_1,Temperature control loop fault,Electrical,20
+325,2026-02-05,Night,DRYER_1,Wet bin plug,Process,45
+326,2026-02-05,Night,DRYER_1,Operator adjustment,Process,10
+327,2026-02-05,Night,DRYER_1,Minor jam clearing,Mechanical,5
+328,2026-02-06,Day,DRYER_1,Drag chain failure,Mechanical,410
+329,2026-02-06,Day,DRYER_1,Burner flame-out,Process,75
+330,2026-02-06,Day,DRYER_1,Moisture control out of spec,Process,25
+331,2026-02-06,Day,DRYER_1,Dryer plug / material buildup,Process,55
+332,2026-02-06,Day,DRYER_2,Moisture control out of spec,Process,25
+333,2026-02-06,Night,DRYER_1,Moisture control out of spec,Process,30
+334,2026-02-06,Night,DRYER_1,Wet bin plug,Process,30
+335,2026-02-06,Night,DRYER_1,Green end down - flaker,Starved,13
+336,2026-02-06,Night,DRYER_1,Wet bin empty,Starved,23
+337,2026-02-06,Night,DRYER_1,Wet bin empty,Starved,50
+338,2026-02-06,Night,DRYER_2,Belt tracking,Mechanical,40
+339,2026-02-06,Night,DRYER_2,Dryer plug / material buildup,Process,50
+340,2026-02-06,Night,DRYER_2,Operator adjustment,Process,15
+341,2026-02-07,Day,DRYER_1,Wet bin plug,Process,35
+342,2026-02-07,Day,DRYER_1,Wet bin plug,Process,35
+343,2026-02-07,Day,DRYER_1,Sensor fault reset,Electrical,5
+344,2026-02-07,Night,DRYER_1,Wet bin empty,Starved,28
+345,2026-02-07,Night,DRYER_2,Spark detection trip,Fire/Safety,230
+346,2026-02-07,Night,DRYER_2,Green end down - flaker,Starved,70
+347,2026-02-08,Day,DRYER_1,Wet bin empty,Starved,34
+348,2026-02-08,Night,DRYER_1,Moisture control out of spec,Process,20
+349,2026-02-08,Night,DRYER_1,Operator adjustment,Process,5
+350,2026-02-08,Night,DRYER_1,Minor jam clearing,Mechanical,5
+351,2026-02-08,Night,DRYER_1,Wet bin empty,Starved,51
+352,2026-02-08,Night,DRYER_1,Dry bin full,Blocked,31
+353,2026-02-09,Day,DRYER_1,Spark detection trip,Fire/Safety,60
+354,2026-02-09,Day,DRYER_1,Dryer plug / material buildup,Process,25
+355,2026-02-09,Day,DRYER_1,Wet bin empty,Starved,38
+356,2026-02-09,Day,DRYER_2,ID fan damper fault,Mechanical,10
+357,2026-02-09,Day,DRYER_2,Wet bin plug,Process,25
+358,2026-02-09,Day,DRYER_2,Minor jam clearing,Mechanical,10
+359,2026-02-09,Night,DRYER_1,Belt tracking,Mechanical,15
+360,2026-02-09,Night,DRYER_1,Moisture control out of spec,Process,35
+361,2026-02-09,Night,DRYER_2,Operator adjustment,Process,5
+362,2026-02-10,Day,DRYER_1,Temperature control loop fault,Electrical,40
+363,2026-02-10,Day,DRYER_1,Minor jam clearing,Mechanical,5
+364,2026-02-10,Day,DRYER_1,Press down,Blocked,72
+365,2026-02-10,Day,DRYER_1,Dry bin full,Blocked,14
+366,2026-02-10,Day,DRYER_1,Dry bin full,Blocked,49
+367,2026-02-10,Day,DRYER_2,Sensor fault reset,Electrical,5
+368,2026-02-10,Day,DRYER_2,Operator adjustment,Process,5
+369,2026-02-10,Day,DRYER_2,Operator adjustment,Process,5
+370,2026-02-10,Night,DRYER_1,Screen change,Changeover,35
+371,2026-02-10,Night,DRYER_2,Moisture control out of spec,Process,15
+372,2026-02-10,Night,DRYER_2,Moisture control out of spec,Process,35
+373,2026-02-10,Night,DRYER_2,Belt tracking,Mechanical,25
+374,2026-02-11,Day,DRYER_1,Moisture control out of spec,Process,40
+375,2026-02-11,Day,DRYER_2,Wet bin plug,Process,30
+376,2026-02-11,Day,DRYER_2,Moisture control out of spec,Process,30
+377,2026-02-11,Day,DRYER_2,Operator adjustment,Process,15
+378,2026-02-11,Day,DRYER_2,Wet bin empty,Starved,25
+379,2026-02-11,Night,DRYER_1,Moisture control out of spec,Process,20
+380,2026-02-11,Night,DRYER_1,Minor jam clearing,Mechanical,10
+381,2026-02-11,Night,DRYER_2,ID fan damper fault,Mechanical,15
+382,2026-02-12,Day,DRYER_2,Wet bin plug,Process,25
+383,2026-02-12,Day,DRYER_2,Press down,Blocked,79
+384,2026-02-12,Night,DRYER_1,Operator adjustment,Process,5
+385,2026-02-12,Night,DRYER_1,Minor jam clearing,Mechanical,5
+386,2026-02-12,Night,DRYER_1,Operator adjustment,Process,5
+387,2026-02-12,Night,DRYER_1,Press down,Blocked,61
+388,2026-02-12,Night,DRYER_2,Moisture control out of spec,Process,20
+389,2026-02-12,Night,DRYER_2,Operator adjustment,Process,10
+390,2026-02-12,Night,DRYER_2,Wet bin empty,Starved,37
+391,2026-02-13,Night,DRYER_1,Belt tracking,Mechanical,45
+392,2026-02-13,Night,DRYER_1,Wet bin plug,Process,25
+393,2026-02-13,Night,DRYER_1,Sensor fault reset,Electrical,5
+394,2026-02-13,Night,DRYER_1,Sensor fault reset,Electrical,5
+395,2026-02-13,Night,DRYER_2,Sensor fault reset,Electrical,5
+396,2026-02-13,Night,DRYER_2,Wet bin empty,Starved,17
+397,2026-02-13,Night,DRYER_2,Dry bin full,Blocked,58
+398,2026-02-14,Day,DRYER_1,Drive motor fault,Electrical,170
+399,2026-02-14,Day,DRYER_1,Moisture control out of spec,Process,15
+400,2026-02-14,Day,DRYER_1,Belt tracking,Mechanical,10
+401,2026-02-14,Day,DRYER_1,Minor jam clearing,Mechanical,5
+402,2026-02-14,Day,DRYER_1,Press down,Blocked,25
+403,2026-02-14,Day,DRYER_1,Press down,Blocked,103
+404,2026-02-14,Day,DRYER_1,Wet bin empty,Starved,163
+405,2026-02-14,Day,DRYER_2,Screen change,Changeover,55
+406,2026-02-14,Day,DRYER_2,Wet bin plug,Process,10
+407,2026-02-14,Day,DRYER_2,Press down,Blocked,29
+408,2026-02-14,Night,DRYER_1,Moisture control out of spec,Process,15
+409,2026-02-14,Night,DRYER_1,Operator adjustment,Process,5
+410,2026-02-14,Night,DRYER_2,ID fan damper fault,Mechanical,10
+411,2026-02-14,Night,DRYER_2,Moisture control out of spec,Process,15
+412,2026-02-14,Night,DRYER_2,Minor jam clearing,Mechanical,5
+413,2026-02-15,Day,DRYER_1,Dryer plug / material buildup,Process,80
+414,2026-02-15,Day,DRYER_1,Moisture control out of spec,Process,25
+415,2026-02-15,Day,DRYER_1,Operator adjustment,Process,10
+416,2026-02-15,Day,DRYER_2,Dryer plug / material buildup,Process,20
+417,2026-02-15,Day,DRYER_2,Moisture control out of spec,Process,20
+418,2026-02-15,Day,DRYER_2,Minor jam clearing,Mechanical,10
+419,2026-02-15,Day,DRYER_2,Operator adjustment,Process,5
+420,2026-02-15,Day,DRYER_2,Green end down - flaker,Starved,18
+421,2026-02-15,Night,DRYER_1,Moisture control out of spec,Process,20
+422,2026-02-15,Night,DRYER_1,Minor jam clearing,Mechanical,5
+423,2026-02-15,Night,DRYER_2,Dryer plug / material buildup,Process,20
+424,2026-02-15,Night,DRYER_2,Operator adjustment,Process,10
+425,2026-02-15,Night,DRYER_2,Operator adjustment,Process,10
+426,2026-02-15,Night,DRYER_2,Press down,Blocked,89
+427,2026-02-16,Day,DRYER_1,Wet bin plug,Process,25
+428,2026-02-16,Day,DRYER_2,Drag chain failure,Mechanical,180
+429,2026-02-16,Day,DRYER_2,Belt tracking,Mechanical,15
+430,2026-02-16,Day,DRYER_2,Operator adjustment,Process,5
+431,2026-02-16,Day,DRYER_2,Green end down - flaker,Starved,17
+432,2026-02-16,Day,DRYER_2,Dry bin full,Blocked,55
+433,2026-02-16,Night,DRYER_1,Wet bin plug,Process,15
+434,2026-02-16,Night,DRYER_2,Burner flame-out,Process,65
+435,2026-02-16,Night,DRYER_2,ID fan damper fault,Mechanical,20
+436,2026-02-16,Night,DRYER_2,Dryer plug / material buildup,Process,30
+437,2026-02-16,Night,DRYER_2,Dryer plug / material buildup,Process,20
+438,2026-02-16,Night,DRYER_2,Temperature control loop fault,Electrical,25
+439,2026-02-17,Day,DRYER_1,Burner flame-out,Process,90
+440,2026-02-17,Day,DRYER_1,Belt tracking,Mechanical,15
+441,2026-02-17,Day,DRYER_1,Wet bin plug,Process,35
+442,2026-02-17,Day,DRYER_1,Belt tracking,Mechanical,30
+443,2026-02-17,Day,DRYER_1,Operator adjustment,Process,5
+444,2026-02-17,Day,DRYER_1,Operator adjustment,Process,10
+445,2026-02-17,Night,DRYER_1,Temperature control loop fault,Electrical,50
+446,2026-02-17,Night,DRYER_1,Moisture control out of spec,Process,15
+447,2026-02-17,Night,DRYER_1,Wet bin plug,Process,25
+448,2026-02-17,Night,DRYER_1,Moisture control out of spec,Process,20
+449,2026-02-17,Night,DRYER_1,Minor jam clearing,Mechanical,5
+450,2026-02-17,Night,DRYER_1,Dry bin full,Blocked,40
+451,2026-02-17,Night,DRYER_1,Wet bin empty,Starved,19
+452,2026-02-17,Night,DRYER_2,Wet bin plug,Process,15
+453,2026-02-17,Night,DRYER_2,Sensor fault reset,Electrical,5
+454,2026-02-18,Day,DRYER_1,Belt tracking,Mechanical,25
+455,2026-02-18,Day,DRYER_1,Wet bin plug,Process,25
+456,2026-02-18,Day,DRYER_1,Sensor fault reset,Electrical,5
+457,2026-02-18,Day,DRYER_2,Press down,Blocked,76
+458,2026-02-18,Night,DRYER_1,Screen change,Changeover,30
+459,2026-02-18,Night,DRYER_1,Dryer plug / material buildup,Process,15
+460,2026-02-18,Night,DRYER_1,Minor jam clearing,Mechanical,5
+461,2026-02-18,Night,DRYER_1,Sensor fault reset,Electrical,10
+462,2026-02-19,Day,DRYER_1,Dryer plug / material buildup,Process,25
+463,2026-02-19,Day,DRYER_1,ID fan damper fault,Mechanical,20
+464,2026-02-19,Day,DRYER_1,Minor jam clearing,Mechanical,5
+465,2026-02-19,Night,DRYER_2,Green end down - flaker,Starved,59
+466,2026-02-20,Day,DRYER_1,Wet bin plug,Process,45
+467,2026-02-20,Day,DRYER_1,Operator adjustment,Process,10
+468,2026-02-20,Day,DRYER_1,Sensor fault reset,Electrical,5
+469,2026-02-20,Day,DRYER_1,Press down,Blocked,51
+470,2026-02-20,Day,DRYER_2,Wet bin plug,Process,20
+471,2026-02-20,Night,DRYER_1,Moisture control out of spec,Process,20
+472,2026-02-20,Night,DRYER_1,Belt tracking,Mechanical,20
+473,2026-02-20,Night,DRYER_1,Dryer plug / material buildup,Process,90
+474,2026-02-20,Night,DRYER_1,Minor jam clearing,Mechanical,5
+475,2026-02-21,Day,DRYER_1,Wet bin plug,Process,20
+476,2026-02-21,Day,DRYER_1,Dryer plug / material buildup,Process,25
+477,2026-02-21,Day,DRYER_1,Moisture control out of spec,Process,60
+478,2026-02-21,Day,DRYER_1,Sensor fault reset,Electrical,5
+479,2026-02-21,Day,DRYER_2,Belt tracking,Mechanical,35
+480,2026-02-21,Day,DRYER_2,Wet bin plug,Process,20
+481,2026-02-21,Night,DRYER_1,Moisture control out of spec,Process,60
+482,2026-02-21,Night,DRYER_2,Burner flame-out,Process,85
+483,2026-02-21,Night,DRYER_2,Dry bin full,Blocked,138
+484,2026-02-22,Day,DRYER_1,Belt tracking,Mechanical,15
+485,2026-02-22,Day,DRYER_1,Wet bin empty,Starved,15
+486,2026-02-22,Day,DRYER_1,Wet bin empty,Starved,71
+487,2026-02-22,Day,DRYER_2,Dryer plug / material buildup,Process,35
+488,2026-02-22,Night,DRYER_1,Burner flame-out,Process,35
+489,2026-02-22,Night,DRYER_1,Dry bin full,Blocked,44
+490,2026-02-22,Night,DRYER_2,ID fan damper fault,Mechanical,15
+491,2026-02-22,Night,DRYER_2,Wet bin plug,Process,25
+492,2026-02-22,Night,DRYER_2,Minor jam clearing,Mechanical,10
+493,2026-02-23,Day,DRYER_1,Dryer plug / material buildup,Process,25
+494,2026-02-23,Day,DRYER_1,Dryer plug / material buildup,Process,15
+495,2026-02-23,Day,DRYER_1,Minor jam clearing,Mechanical,5
+496,2026-02-23,Day,DRYER_2,Cyclone plug,Process,95
+497,2026-02-23,Day,DRYER_2,Operator adjustment,Process,10
+498,2026-02-23,Night,DRYER_1,Moisture control out of spec,Process,15
+499,2026-02-23,Night,DRYER_2,ID fan damper fault,Mechanical,30
+500,2026-02-23,Night,DRYER_2,Moisture control out of spec,Process,30
+501,2026-02-23,Night,DRYER_2,Dryer plug / material buildup,Process,60
+502,2026-02-23,Night,DRYER_2,Operator adjustment,Process,15
+503,2026-02-23,Night,DRYER_2,Green end down - flaker,Starved,39
+504,2026-02-24,Day,DRYER_1,Moisture control out of spec,Process,15
+505,2026-02-24,Day,DRYER_1,Moisture control out of spec,Process,20
+506,2026-02-24,Day,DRYER_1,Wet bin plug,Process,25
+507,2026-02-24,Day,DRYER_1,Dryer plug / material buildup,Process,55
+508,2026-02-24,Day,DRYER_1,Operator adjustment,Process,20
+509,2026-02-24,Day,DRYER_1,Minor jam clearing,Mechanical,5
+510,2026-02-24,Day,DRYER_2,Temperature control loop fault,Electrical,30
+511,2026-02-24,Day,DRYER_2,Wet bin plug,Process,75
+512,2026-02-24,Day,DRYER_2,Operator adjustment,Process,10
+513,2026-02-24,Night,DRYER_1,Moisture control out of spec,Process,10
+514,2026-02-24,Night,DRYER_1,Dry bin full,Blocked,140
+515,2026-02-24,Night,DRYER_2,Moisture control out of spec,Process,25
+516,2026-02-24,Night,DRYER_2,Moisture control out of spec,Process,30
+517,2026-02-24,Night,DRYER_2,Press down,Blocked,70
+518,2026-02-25,Day,DRYER_1,Dry bin full,Blocked,60
+519,2026-02-25,Day,DRYER_1,Wet bin empty,Starved,35
+520,2026-02-25,Day,DRYER_2,Dryer plug / material buildup,Process,35
+521,2026-02-25,Day,DRYER_2,Green end down - flaker,Starved,22
+522,2026-02-25,Day,DRYER_2,Press down,Blocked,70
+523,2026-02-25,Night,DRYER_1,Belt tracking,Mechanical,30
+524,2026-02-25,Night,DRYER_1,Operator adjustment,Process,15
+525,2026-02-25,Night,DRYER_2,Belt tracking,Mechanical,30
+526,2026-02-25,Night,DRYER_2,Minor jam clearing,Mechanical,5
+527,2026-02-25,Night,DRYER_2,Minor jam clearing,Mechanical,10
+528,2026-02-25,Night,DRYER_2,Press down,Blocked,38
+529,2026-02-25,Night,DRYER_2,Press down,Blocked,135
+530,2026-02-25,Night,DRYER_2,Dry bin full,Blocked,51
+531,2026-02-25,Night,DRYER_2,Dry bin full,Blocked,32
+532,2026-02-26,Day,DRYER_1,Wet bin plug,Process,35
+533,2026-02-26,Day,DRYER_1,Belt tracking,Mechanical,10
+534,2026-02-26,Day,DRYER_1,Belt tracking,Mechanical,20
+535,2026-02-26,Day,DRYER_1,Wet bin plug,Process,45
+536,2026-02-26,Day,DRYER_1,Dry bin full,Blocked,19
+537,2026-02-26,Day,DRYER_2,Wet bin empty,Starved,29
+538,2026-02-26,Night,DRYER_1,Screen change,Changeover,65
+539,2026-02-26,Night,DRYER_1,Moisture control out of spec,Process,20
+540,2026-02-26,Night,DRYER_1,Dryer plug / material buildup,Process,45
+541,2026-02-26,Night,DRYER_1,Green end down - flaker,Starved,35
+542,2026-02-26,Night,DRYER_2,Drag chain failure,Mechanical,85
+543,2026-02-26,Night,DRYER_2,ID fan damper fault,Mechanical,25
+544,2026-02-27,Day,DRYER_1,Temperature control loop fault,Electrical,25
+545,2026-02-27,Day,DRYER_2,Screen change,Changeover,80
+546,2026-02-27,Day,DRYER_2,Dryer plug / material buildup,Process,25
+547,2026-02-27,Day,DRYER_2,Wet bin plug,Process,15
+548,2026-02-27,Day,DRYER_2,Dry bin full,Blocked,31
+549,2026-02-27,Day,DRYER_2,Press down,Blocked,51
+550,2026-02-27,Night,DRYER_1,Screen change,Changeover,50
+551,2026-02-27,Night,DRYER_1,Wet bin plug,Process,40
+552,2026-02-27,Night,DRYER_2,ID fan damper fault,Mechanical,20
+553,2026-02-27,Night,DRYER_2,Wet bin plug,Process,15
+554,2026-02-27,Night,DRYER_2,ID fan damper fault,Mechanical,30
+555,2026-02-27,Night,DRYER_2,Wet bin empty,Starved,41
+556,2026-02-27,Night,DRYER_2,Wet bin empty,Starved,14
+557,2026-02-27,Night,DRYER_2,Press down,Blocked,22
+558,2026-02-28,Day,DRYER_1,Burner flame-out,Process,40
+559,2026-02-28,Day,DRYER_1,Burner flame-out,Process,220
+560,2026-02-28,Day,DRYER_1,Wet bin plug,Process,35
+561,2026-02-28,Day,DRYER_1,Sensor fault reset,Electrical,5
+562,2026-02-28,Day,DRYER_2,ID fan damper fault,Mechanical,30
+563,2026-02-28,Night,DRYER_1,Moisture control out of spec,Process,20
+564,2026-02-28,Night,DRYER_2,Belt tracking,Mechanical,10
+565,2026-02-28,Night,DRYER_2,Belt tracking,Mechanical,35
+566,2026-02-28,Night,DRYER_2,Wet bin plug,Process,130
+567,2026-02-28,Night,DRYER_2,Operator adjustment,Process,10
+568,2026-02-28,Night,DRYER_2,Dry bin full,Blocked,42
+569,2026-03-01,Day,DRYER_1,Operator adjustment,Process,5
+570,2026-03-01,Day,DRYER_2,Dryer plug / material buildup,Process,30
+571,2026-03-01,Day,DRYER_2,Press down,Blocked,23
+572,2026-03-01,Night,DRYER_1,Screen change,Changeover,100
+573,2026-03-01,Night,DRYER_1,Green end down - flaker,Starved,26
+574,2026-03-01,Night,DRYER_1,Green end down - flaker,Starved,25
+575,2026-03-01,Night,DRYER_1,Wet bin empty,Starved,19
+576,2026-03-01,Night,DRYER_2,Dryer plug / material buildup,Process,65
+577,2026-03-01,Night,DRYER_2,Temperature control loop fault,Electrical,60
+578,2026-03-02,Day,DRYER_2,Wet bin plug,Process,70
+579,2026-03-02,Day,DRYER_2,Press down,Blocked,31
+580,2026-03-02,Night,DRYER_1,Dryer plug / material buildup,Process,20
+581,2026-03-02,Night,DRYER_1,Wet bin plug,Process,30
+582,2026-03-02,Night,DRYER_1,Moisture control out of spec,Process,45
+583,2026-03-02,Night,DRYER_1,Operator adjustment,Process,15
+584,2026-03-02,Night,DRYER_2,Discharge conveyor bearing,Mechanical,110
+585,2026-03-03,Day,DRYER_1,Dryer plug / material buildup,Process,45
+586,2026-03-03,Day,DRYER_1,Wet bin empty,Starved,61
+587,2026-03-03,Night,DRYER_1,Temperature control loop fault,Electrical,30
+588,2026-03-03,Night,DRYER_2,Minor jam clearing,Mechanical,10
+589,2026-03-03,Night,DRYER_2,Operator adjustment,Process,5
+590,2026-03-04,Day,DRYER_1,Moisture control out of spec,Process,70
+591,2026-03-04,Day,DRYER_1,Belt tracking,Mechanical,40
+592,2026-03-04,Day,DRYER_1,Operator adjustment,Process,10
+593,2026-03-04,Day,DRYER_1,Operator adjustment,Process,10
+594,2026-03-04,Day,DRYER_2,ID fan damper fault,Mechanical,50
+595,2026-03-04,Day,DRYER_2,ID fan damper fault,Mechanical,45
+596,2026-03-04,Day,DRYER_2,Green end down - flaker,Starved,12
+597,2026-03-04,Night,DRYER_1,Drive motor fault,Electrical,125
+598,2026-03-04,Night,DRYER_1,Temperature control loop fault,Electrical,40
+599,2026-03-04,Night,DRYER_1,Dryer plug / material buildup,Process,15
+600,2026-03-04,Night,DRYER_1,Dry bin full,Blocked,77
+601,2026-03-04,Night,DRYER_1,Dry bin full,Blocked,27
+602,2026-03-04,Night,DRYER_1,Press down,Blocked,43
+603,2026-03-04,Night,DRYER_2,Dryer plug / material buildup,Process,30
+604,2026-03-04,Night,DRYER_2,ID fan damper fault,Mechanical,15
+605,2026-03-04,Night,DRYER_2,Green end down - flaker,Starved,46
+606,2026-03-04,Night,DRYER_2,Dry bin full,Blocked,29
+607,2026-03-05,Day,DRYER_1,Operator adjustment,Process,5
+608,2026-03-05,Day,DRYER_1,Press down,Blocked,26
+609,2026-03-05,Day,DRYER_2,Belt tracking,Mechanical,20
+610,2026-03-05,Day,DRYER_2,Operator adjustment,Process,5
+611,2026-03-05,Night,DRYER_1,Temperature control loop fault,Electrical,20
+612,2026-03-05,Night,DRYER_1,Wet bin empty,Starved,80
+613,2026-03-05,Night,DRYER_2,Moisture control out of spec,Process,20
+614,2026-03-05,Night,DRYER_2,Moisture control out of spec,Process,25
+615,2026-03-06,Day,DRYER_1,Moisture control out of spec,Process,15
+616,2026-03-06,Day,DRYER_1,Wet bin plug,Process,25
+617,2026-03-06,Day,DRYER_2,Wet bin plug,Process,30
+618,2026-03-06,Day,DRYER_2,Moisture control out of spec,Process,20
+619,2026-03-06,Day,DRYER_2,Wet bin plug,Process,20
+620,2026-03-06,Day,DRYER_2,Operator adjustment,Process,5
+621,2026-03-06,Night,DRYER_1,Operator adjustment,Process,10
+622,2026-03-06,Night,DRYER_1,Operator adjustment,Process,15
+623,2026-03-07,Day,DRYER_1,Sensor fault reset,Electrical,5
+624,2026-03-07,Day,DRYER_1,Wet bin empty,Starved,28
+625,2026-03-07,Day,DRYER_2,Temperature control loop fault,Electrical,15
+626,2026-03-07,Day,DRYER_2,Minor jam clearing,Mechanical,5
+627,2026-03-07,Day,DRYER_2,Dry bin full,Blocked,44
+628,2026-03-07,Day,DRYER_2,Wet bin empty,Starved,51
+629,2026-03-07,Night,DRYER_1,ID fan damper fault,Mechanical,25
+630,2026-03-07,Night,DRYER_1,Sensor fault reset,Electrical,5
+631,2026-03-07,Night,DRYER_2,Green end down - flaker,Starved,33
+632,2026-03-08,Day,DRYER_2,Minor jam clearing,Mechanical,5
+633,2026-03-08,Day,DRYER_2,Operator adjustment,Process,15
+634,2026-03-08,Night,DRYER_1,Dryer plug / material buildup,Process,25
+635,2026-03-08,Night,DRYER_1,Moisture control out of spec,Process,30
+636,2026-03-08,Night,DRYER_1,Moisture control out of spec,Process,40
+637,2026-03-08,Night,DRYER_1,Minor jam clearing,Mechanical,5
+638,2026-03-08,Night,DRYER_1,Sensor fault reset,Electrical,5
+639,2026-03-08,Night,DRYER_1,Minor jam clearing,Mechanical,5
+640,2026-03-08,Night,DRYER_1,Press down,Blocked,26
+641,2026-03-08,Night,DRYER_1,Dry bin full,Blocked,58
+642,2026-03-08,Night,DRYER_1,Green end down - flaker,Starved,118
+643,2026-03-08,Night,DRYER_2,Green end down - flaker,Starved,23
+644,2026-03-09,Day,DRYER_1,Temperature control loop fault,Electrical,40
+645,2026-03-09,Day,DRYER_1,Moisture control out of spec,Process,30
+646,2026-03-09,Day,DRYER_2,Belt tracking,Mechanical,25
+647,2026-03-09,Night,DRYER_1,Belt tracking,Mechanical,10
+648,2026-03-09,Night,DRYER_1,Wet bin plug,Process,20
+649,2026-03-09,Night,DRYER_1,Minor jam clearing,Mechanical,10
+650,2026-03-09,Night,DRYER_1,Minor jam clearing,Mechanical,5
+651,2026-03-09,Night,DRYER_1,Operator adjustment,Process,10
+652,2026-03-09,Night,DRYER_1,Wet bin empty,Starved,106
+653,2026-03-09,Night,DRYER_1,Wet bin empty,Starved,78
+654,2026-03-09,Night,DRYER_2,Screen change,Changeover,65
+655,2026-03-09,Night,DRYER_2,Operator adjustment,Process,15
+656,2026-03-10,Day,DRYER_1,Green end down - flaker,Starved,37
+657,2026-03-10,Day,DRYER_1,Green end down - flaker,Starved,25
+658,2026-03-10,Day,DRYER_2,Minor jam clearing,Mechanical,5
+659,2026-03-10,Night,DRYER_1,Minor jam clearing,Mechanical,10
+660,2026-03-10,Night,DRYER_1,Sensor fault reset,Electrical,5
+661,2026-03-10,Night,DRYER_1,Minor jam clearing,Mechanical,5
+662,2026-03-10,Night,DRYER_1,Wet bin empty,Starved,21
+663,2026-03-10,Night,DRYER_2,Moisture control out of spec,Process,15
+664,2026-03-10,Night,DRYER_2,Moisture control out of spec,Process,20
+665,2026-03-10,Night,DRYER_2,Press down,Blocked,17
+666,2026-03-10,Night,DRYER_2,Press down,Blocked,33
+667,2026-03-11,Day,DRYER_1,Belt tracking,Mechanical,75
+668,2026-03-11,Day,DRYER_1,Sensor fault reset,Electrical,5
+669,2026-03-11,Day,DRYER_1,Sensor fault reset,Electrical,10
+670,2026-03-11,Day,DRYER_1,Wet bin empty,Starved,153
+671,2026-03-11,Day,DRYER_2,Press down,Blocked,47
+672,2026-03-11,Night,DRYER_1,Belt tracking,Mechanical,20
+673,2026-03-12,Day,DRYER_2,Dry bin full,Blocked,145
+674,2026-03-12,Night,DRYER_1,Belt tracking,Mechanical,20
+675,2026-03-12,Night,DRYER_1,Operator adjustment,Process,5
+676,2026-03-12,Night,DRYER_2,Wet bin plug,Process,15
+677,2026-03-12,Night,DRYER_2,Belt tracking,Mechanical,35
+678,2026-03-12,Night,DRYER_2,Sensor fault reset,Electrical,5
+679,2026-03-13,Day,DRYER_1,Minor jam clearing,Mechanical,5
+680,2026-03-13,Day,DRYER_1,Dry bin full,Blocked,29
+681,2026-03-13,Day,DRYER_1,Green end down - flaker,Starved,49
+682,2026-03-13,Day,DRYER_2,Wet bin plug,Process,30
+683,2026-03-13,Day,DRYER_2,Dryer plug / material buildup,Process,25
+684,2026-03-13,Day,DRYER_2,Temperature control loop fault,Electrical,20
+685,2026-03-13,Day,DRYER_2,Sensor fault reset,Electrical,5
+686,2026-03-13,Day,DRYER_2,Minor jam clearing,Mechanical,5
+687,2026-03-13,Day,DRYER_2,Green end down - flaker,Starved,51
+688,2026-03-13,Day,DRYER_2,Press down,Blocked,35
+689,2026-03-13,Night,DRYER_1,Wet bin plug,Process,10
+690,2026-03-13,Night,DRYER_1,Sensor fault reset,Electrical,5
+691,2026-03-13,Night,DRYER_1,Green end down - flaker,Starved,172
+692,2026-03-14,Day,DRYER_1,Dryer plug / material buildup,Process,60
+693,2026-03-14,Day,DRYER_1,Moisture control out of spec,Process,25
+694,2026-03-14,Day,DRYER_1,Dry bin full,Blocked,42
+695,2026-03-14,Day,DRYER_1,Press down,Blocked,50
+696,2026-03-14,Day,DRYER_2,Operator adjustment,Process,5
+697,2026-03-14,Night,DRYER_1,Moisture control out of spec,Process,65
+698,2026-03-14,Night,DRYER_1,Wet bin plug,Process,45
+699,2026-03-14,Night,DRYER_2,ID fan damper fault,Mechanical,20
+700,2026-03-14,Night,DRYER_2,Temperature control loop fault,Electrical,20
+701,2026-03-15,Day,DRYER_1,Operator adjustment,Process,15
+702,2026-03-15,Day,DRYER_2,Operator adjustment,Process,10
+703,2026-03-15,Day,DRYER_2,Wet bin empty,Starved,38
+704,2026-03-15,Day,DRYER_2,Press down,Blocked,143
+705,2026-03-15,Night,DRYER_1,Spark detection trip,Fire/Safety,110
+706,2026-03-15,Night,DRYER_1,Moisture control out of spec,Process,30
+707,2026-03-15,Night,DRYER_1,Sensor fault reset,Electrical,5
+708,2026-03-15,Night,DRYER_1,Wet bin empty,Starved,13
+709,2026-03-15,Night,DRYER_2,Minor jam clearing,Mechanical,5
+710,2026-03-16,Day,DRYER_1,Belt tracking,Mechanical,25
+711,2026-03-16,Day,DRYER_1,Temperature control loop fault,Electrical,55
+712,2026-03-16,Day,DRYER_1,Wet bin empty,Starved,15
+713,2026-03-16,Day,DRYER_1,Wet bin empty,Starved,63
+714,2026-03-16,Day,DRYER_1,Dry bin full,Blocked,37
+715,2026-03-16,Day,DRYER_2,Dryer plug / material buildup,Process,35
+716,2026-03-16,Night,DRYER_1,Operator adjustment,Process,5
+717,2026-03-16,Night,DRYER_1,Green end down - flaker,Starved,43
+718,2026-03-16,Night,DRYER_2,Wet bin plug,Process,15
+719,2026-03-17,Day,DRYER_1,Temperature control loop fault,Electrical,40
+720,2026-03-17,Day,DRYER_1,Dryer plug / material buildup,Process,50
+721,2026-03-17,Day,DRYER_2,Moisture control out of spec,Process,20
+722,2026-03-17,Night,DRYER_1,Screen change,Changeover,75
+723,2026-03-17,Night,DRYER_1,Press down,Blocked,104
+724,2026-03-17,Night,DRYER_2,ID fan damper fault,Mechanical,25
+725,2026-03-18,Day,DRYER_1,Screen change,Changeover,110
+726,2026-03-18,Day,DRYER_1,Temperature control loop fault,Electrical,15
+727,2026-03-18,Day,DRYER_1,Moisture control out of spec,Process,10
+728,2026-03-18,Day,DRYER_1,Dry bin full,Blocked,36
+729,2026-03-18,Day,DRYER_1,Press down,Blocked,48
+730,2026-03-18,Day,DRYER_2,Temperature control loop fault,Electrical,40
+731,2026-03-18,Night,DRYER_1,Moisture control out of spec,Process,30
+732,2026-03-18,Night,DRYER_1,Sensor fault reset,Electrical,5
+733,2026-03-18,Night,DRYER_1,Press down,Blocked,54
+734,2026-03-18,Night,DRYER_1,Wet bin empty,Starved,96
+735,2026-03-18,Night,DRYER_2,Moisture control out of spec,Process,20
+736,2026-03-18,Night,DRYER_2,Minor jam clearing,Mechanical,5
+737,2026-03-18,Night,DRYER_2,Green end down - flaker,Starved,52
+738,2026-03-19,Day,DRYER_1,Minor jam clearing,Mechanical,5
+739,2026-03-19,Day,DRYER_2,Dryer plug / material buildup,Process,25
+740,2026-03-19,Day,DRYER_2,Wet bin empty,Starved,166
+741,2026-03-19,Night,DRYER_1,ID fan damper fault,Mechanical,20
+742,2026-03-19,Night,DRYER_1,Moisture control out of spec,Process,25
+743,2026-03-19,Night,DRYER_1,Dry bin full,Blocked,77
+744,2026-03-19,Night,DRYER_2,Drive motor fault,Electrical,75
+745,2026-03-19,Night,DRYER_2,Temperature control loop fault,Electrical,20
+746,2026-03-19,Night,DRYER_2,Dryer plug / material buildup,Process,15
+747,2026-03-19,Night,DRYER_2,Minor jam clearing,Mechanical,5
+748,2026-03-20,Day,DRYER_1,Wet bin plug,Process,20
+749,2026-03-20,Day,DRYER_1,Moisture control out of spec,Process,20
+750,2026-03-20,Day,DRYER_1,Dry bin full,Blocked,64
+751,2026-03-20,Day,DRYER_1,Green end down - flaker,Starved,26
+752,2026-03-20,Day,DRYER_2,ID fan damper fault,Mechanical,20
+753,2026-03-20,Night,DRYER_1,Belt tracking,Mechanical,30
+754,2026-03-20,Night,DRYER_1,Sensor fault reset,Electrical,5
+755,2026-03-20,Night,DRYER_2,Dryer plug / material buildup,Process,25
+756,2026-03-21,Day,DRYER_1,Cyclone plug,Process,140
+757,2026-03-21,Day,DRYER_1,Moisture control out of spec,Process,35
+758,2026-03-21,Day,DRYER_1,Operator adjustment,Process,5
+759,2026-03-21,Day,DRYER_2,Belt tracking,Mechanical,30
+760,2026-03-21,Day,DRYER_2,Sensor fault reset,Electrical,5
+761,2026-03-21,Day,DRYER_2,Press down,Blocked,57
+762,2026-03-21,Night,DRYER_2,Wet bin plug,Process,25
+763,2026-03-21,Night,DRYER_2,Dryer plug / material buildup,Process,25
+764,2026-03-21,Night,DRYER_2,Wet bin plug,Process,30
+765,2026-03-21,Night,DRYER_2,Operator adjustment,Process,5
+766,2026-03-22,Day,DRYER_2,Wet bin plug,Process,15
+767,2026-03-22,Day,DRYER_2,Wet bin plug,Process,25
+768,2026-03-22,Night,DRYER_1,Wet bin plug,Process,15
+769,2026-03-22,Night,DRYER_1,Belt tracking,Mechanical,50
+770,2026-03-22,Night,DRYER_1,Dry bin full,Blocked,22
+771,2026-03-22,Night,DRYER_2,Green end down - flaker,Starved,18
+772,2026-03-22,Night,DRYER_2,Press down,Blocked,33
+773,2026-03-22,Night,DRYER_2,Dry bin full,Blocked,75
+774,2026-03-23,Day,DRYER_1,ID fan damper fault,Mechanical,55
+775,2026-03-23,Day,DRYER_1,Operator adjustment,Process,10
+776,2026-03-23,Day,DRYER_1,Press down,Blocked,34
+777,2026-03-23,Day,DRYER_2,Belt tracking,Mechanical,15
+778,2026-03-23,Day,DRYER_2,Operator adjustment,Process,5
+779,2026-03-23,Day,DRYER_2,Green end down - flaker,Starved,45
+780,2026-03-23,Night,DRYER_1,Dryer plug / material buildup,Process,30
+781,2026-03-23,Night,DRYER_1,Minor jam clearing,Mechanical,5
+782,2026-03-23,Night,DRYER_1,Minor jam clearing,Mechanical,5
+783,2026-03-23,Night,DRYER_2,Dryer plug / material buildup,Process,40
+784,2026-03-23,Night,DRYER_2,Sensor fault reset,Electrical,5
+785,2026-03-24,Day,DRYER_2,Moisture control out of spec,Process,20
+786,2026-03-24,Day,DRYER_2,Green end down - flaker,Starved,29
+787,2026-03-24,Night,DRYER_1,Dryer plug / material buildup,Process,20
+788,2026-03-24,Night,DRYER_1,Dry bin full,Blocked,62
+789,2026-03-24,Night,DRYER_2,Cyclone plug,Process,140
+790,2026-03-24,Night,DRYER_2,Moisture control out of spec,Process,20
+791,2026-03-24,Night,DRYER_2,Belt tracking,Mechanical,15
+792,2026-03-25,Day,DRYER_1,Belt tracking,Mechanical,10
+793,2026-03-25,Day,DRYER_2,Sensor fault reset,Electrical,5
+794,2026-03-25,Night,DRYER_1,Moisture control out of spec,Process,20
+795,2026-03-25,Night,DRYER_1,Temperature control loop fault,Electrical,15
+796,2026-03-25,Night,DRYER_2,Operator adjustment,Process,15
+797,2026-03-25,Night,DRYER_2,Green end down - flaker,Starved,49
+798,2026-03-26,Day,DRYER_1,Belt tracking,Mechanical,20
+799,2026-03-26,Day,DRYER_2,ID fan damper fault,Mechanical,15
+800,2026-03-26,Day,DRYER_2,Wet bin plug,Process,20
+801,2026-03-26,Day,DRYER_2,Sensor fault reset,Electrical,5
+802,2026-03-26,Day,DRYER_2,Operator adjustment,Process,10
+803,2026-03-26,Night,DRYER_1,Dryer plug / material buildup,Process,35
+804,2026-03-26,Night,DRYER_1,Wet bin plug,Process,20
+805,2026-03-26,Night,DRYER_1,Moisture control out of spec,Process,40
+806,2026-03-26,Night,DRYER_2,Operator adjustment,Process,5
+807,2026-03-26,Night,DRYER_2,Operator adjustment,Process,15
+808,2026-03-26,Night,DRYER_2,Press down,Blocked,130
+809,2026-03-27,Day,DRYER_1,Moisture control out of spec,Process,40
+810,2026-03-27,Day,DRYER_1,Moisture control out of spec,Process,45
+811,2026-03-27,Day,DRYER_1,Sensor fault reset,Electrical,5
+812,2026-03-27,Day,DRYER_2,Operator adjustment,Process,10
+813,2026-03-27,Day,DRYER_2,Operator adjustment,Process,10
+814,2026-03-27,Day,DRYER_2,Dry bin full,Blocked,45
+815,2026-03-27,Night,DRYER_1,Minor jam clearing,Mechanical,5
+816,2026-03-27,Night,DRYER_2,Wet bin plug,Process,50
+817,2026-03-27,Night,DRYER_2,Operator adjustment,Process,15
+818,2026-03-28,Day,DRYER_1,Drag chain failure,Mechanical,320
+819,2026-03-28,Day,DRYER_1,Wet bin plug,Process,20
+820,2026-03-28,Day,DRYER_1,Operator adjustment,Process,10
+821,2026-03-28,Day,DRYER_2,Dryer plug / material buildup,Process,25
+822,2026-03-28,Day,DRYER_2,ID fan damper fault,Mechanical,15
+823,2026-03-28,Day,DRYER_2,Dry bin full,Blocked,9
+824,2026-03-28,Night,DRYER_1,Operator adjustment,Process,5
+825,2026-03-28,Night,DRYER_1,Minor jam clearing,Mechanical,10
+826,2026-03-28,Night,DRYER_1,Green end down - flaker,Starved,66
+827,2026-03-28,Night,DRYER_2,Dryer plug / material buildup,Process,35
+828,2026-03-28,Night,DRYER_2,Green end down - flaker,Starved,51
+829,2026-03-28,Night,DRYER_2,Wet bin empty,Starved,24
+830,2026-03-29,Day,DRYER_1,Moisture control out of spec,Process,45
+831,2026-03-29,Day,DRYER_1,Wet bin plug,Process,30
+832,2026-03-29,Day,DRYER_1,Operator adjustment,Process,5
+833,2026-03-29,Day,DRYER_2,Cyclone plug,Process,90
+834,2026-03-29,Day,DRYER_2,Green end down - flaker,Starved,33
+835,2026-03-29,Day,DRYER_2,Press down,Blocked,39
+836,2026-03-29,Night,DRYER_2,Moisture control out of spec,Process,15
+837,2026-03-30,Day,DRYER_1,Minor jam clearing,Mechanical,10
+838,2026-03-30,Day,DRYER_1,Operator adjustment,Process,5
+839,2026-03-30,Day,DRYER_1,Minor jam clearing,Mechanical,5
+840,2026-03-30,Day,DRYER_2,Wet bin plug,Process,10
+841,2026-03-30,Day,DRYER_2,Moisture control out of spec,Process,10
+842,2026-03-30,Day,DRYER_2,Operator adjustment,Process,5
+843,2026-03-30,Night,DRYER_1,Wet bin plug,Process,25
+844,2026-03-30,Night,DRYER_1,Moisture control out of spec,Process,40
+845,2026-03-30,Night,DRYER_1,Wet bin plug,Process,35
+846,2026-03-30,Night,DRYER_1,Minor jam clearing,Mechanical,10
+847,2026-03-30,Night,DRYER_1,Dry bin full,Blocked,22
+848,2026-03-30,Night,DRYER_1,Wet bin empty,Starved,10
+849,2026-03-30,Night,DRYER_1,Dry bin full,Blocked,16
+850,2026-03-30,Night,DRYER_2,Temperature control loop fault,Electrical,40
+851,2026-03-30,Night,DRYER_2,Moisture control out of spec,Process,25
+852,2026-03-30,Night,DRYER_2,Belt tracking,Mechanical,10
+853,2026-03-30,Night,DRYER_2,ID fan damper fault,Mechanical,50
+854,2026-03-31,Day,DRYER_2,Cyclone plug,Process,115
+855,2026-03-31,Day,DRYER_2,Belt tracking,Mechanical,15
+856,2026-03-31,Night,DRYER_1,Wet bin plug,Process,30
+857,2026-03-31,Night,DRYER_1,Temperature control loop fault,Electrical,35
+858,2026-03-31,Night,DRYER_1,Sensor fault reset,Electrical,5
+859,2026-03-31,Night,DRYER_1,Operator adjustment,Process,10
+860,2026-03-31,Night,DRYER_1,Press down,Blocked,26
+861,2026-03-31,Night,DRYER_2,Wet bin plug,Process,25
+862,2026-03-31,Night,DRYER_2,Sensor fault reset,Electrical,5
+863,2026-04-01,Day,DRYER_1,Temperature control loop fault,Electrical,50
+864,2026-04-01,Day,DRYER_1,ID fan damper fault,Mechanical,15
+865,2026-04-01,Day,DRYER_2,ID fan damper fault,Mechanical,20
+866,2026-04-01,Day,DRYER_2,Moisture control out of spec,Process,15
+867,2026-04-01,Day,DRYER_2,Moisture control out of spec,Process,20
+868,2026-04-01,Night,DRYER_2,Temperature control loop fault,Electrical,25
+869,2026-04-01,Night,DRYER_2,Wet bin plug,Process,50
+870,2026-04-02,Day,DRYER_1,Burner flame-out,Process,65
+871,2026-04-02,Day,DRYER_1,Moisture control out of spec,Process,20
+872,2026-04-02,Day,DRYER_2,Moisture control out of spec,Process,40
+873,2026-04-02,Day,DRYER_2,Belt tracking,Mechanical,10
+874,2026-04-02,Day,DRYER_2,Moisture control out of spec,Process,30
+875,2026-04-02,Day,DRYER_2,Minor jam clearing,Mechanical,10
+876,2026-04-02,Day,DRYER_2,Dry bin full,Blocked,47
+877,2026-04-02,Night,DRYER_1,Minor jam clearing,Mechanical,10
+878,2026-04-02,Night,DRYER_1,Wet bin empty,Starved,28
+879,2026-04-02,Night,DRYER_1,Wet bin empty,Starved,26
+880,2026-04-02,Night,DRYER_2,Dryer plug / material buildup,Process,15
+881,2026-04-02,Night,DRYER_2,Dry bin full,Blocked,16
+882,2026-04-02,Night,DRYER_2,Wet bin empty,Starved,20
+883,2026-04-03,Day,DRYER_1,Temperature control loop fault,Electrical,35
+884,2026-04-03,Day,DRYER_1,Belt tracking,Mechanical,15
+885,2026-04-03,Day,DRYER_2,Wet bin plug,Process,35
+886,2026-04-03,Day,DRYER_2,Operator adjustment,Process,10
+887,2026-04-03,Night,DRYER_1,Moisture control out of spec,Process,45
+888,2026-04-03,Night,DRYER_1,Sensor fault reset,Electrical,5
+889,2026-04-03,Night,DRYER_2,Operator adjustment,Process,15
+890,2026-04-04,Day,DRYER_1,Minor jam clearing,Mechanical,5
+891,2026-04-04,Day,DRYER_1,Wet bin empty,Starved,6
+892,2026-04-04,Day,DRYER_2,Operator adjustment,Process,5
+893,2026-04-04,Night,DRYER_2,Wet bin plug,Process,15
+894,2026-04-04,Night,DRYER_2,Minor jam clearing,Mechanical,5
+895,2026-04-04,Night,DRYER_2,Minor jam clearing,Mechanical,10
+896,2026-04-04,Night,DRYER_2,Wet bin empty,Starved,45
+897,2026-04-04,Night,DRYER_2,Dry bin full,Blocked,63
+898,2026-04-05,Day,DRYER_1,Dryer plug / material buildup,Process,15
+899,2026-04-05,Day,DRYER_1,Belt tracking,Mechanical,20
+900,2026-04-05,Day,DRYER_2,ID fan damper fault,Mechanical,10
+901,2026-04-05,Day,DRYER_2,Minor jam clearing,Mechanical,5
+902,2026-04-05,Night,DRYER_1,Screen change,Changeover,40
+903,2026-04-05,Night,DRYER_1,ID fan damper fault,Mechanical,25
+904,2026-04-05,Night,DRYER_1,Wet bin plug,Process,60
+905,2026-04-05,Night,DRYER_1,Minor jam clearing,Mechanical,5
+906,2026-04-05,Night,DRYER_1,Dry bin full,Blocked,78
+907,2026-04-05,Night,DRYER_1,Wet bin empty,Starved,30
+908,2026-04-05,Night,DRYER_1,Dry bin full,Blocked,51
+909,2026-04-05,Night,DRYER_1,Dry bin full,Blocked,55
+910,2026-04-05,Night,DRYER_2,Wet bin plug,Process,20
+911,2026-04-05,Night,DRYER_2,Sensor fault reset,Electrical,5
+912,2026-04-05,Night,DRYER_2,Wet bin empty,Starved,45
+913,2026-04-05,Night,DRYER_2,Wet bin empty,Starved,72
+914,2026-04-05,Night,DRYER_2,Press down,Blocked,58
+915,2026-04-06,Day,DRYER_1,Moisture control out of spec,Process,15
+916,2026-04-06,Day,DRYER_1,Operator adjustment,Process,10
+917,2026-04-06,Day,DRYER_1,Operator adjustment,Process,10
+918,2026-04-06,Day,DRYER_2,Screen change,Changeover,35
+919,2026-04-06,Day,DRYER_2,Temperature control loop fault,Electrical,40
+920,2026-04-06,Day,DRYER_2,Operator adjustment,Process,10
+921,2026-04-06,Day,DRYER_2,Wet bin empty,Starved,51
+922,2026-04-06,Night,DRYER_2,Operator adjustment,Process,5
+923,2026-04-06,Night,DRYER_2,Wet bin empty,Starved,28
+924,2026-04-07,Day,DRYER_1,Temperature control loop fault,Electrical,30
+925,2026-04-07,Day,DRYER_1,Minor jam clearing,Mechanical,5
+926,2026-04-07,Day,DRYER_1,Press down,Blocked,9
+927,2026-04-07,Day,DRYER_1,Press down,Blocked,25
+928,2026-04-07,Day,DRYER_1,Wet bin empty,Starved,63
+929,2026-04-07,Day,DRYER_2,Temperature control loop fault,Electrical,15
+930,2026-04-07,Day,DRYER_2,Belt tracking,Mechanical,20
+931,2026-04-07,Day,DRYER_2,Wet bin empty,Starved,41
+932,2026-04-07,Night,DRYER_1,Belt tracking,Mechanical,15
+933,2026-04-07,Night,DRYER_1,Dryer plug / material buildup,Process,25
+934,2026-04-07,Night,DRYER_1,Minor jam clearing,Mechanical,10
+935,2026-04-07,Night,DRYER_1,Press down,Blocked,46
+936,2026-04-07,Night,DRYER_1,Press down,Blocked,25
+937,2026-04-07,Night,DRYER_2,Wet bin empty,Starved,57
+938,2026-04-08,Day,DRYER_1,Temperature control loop fault,Electrical,20
+939,2026-04-08,Night,DRYER_1,Wet bin plug,Process,30
+940,2026-04-08,Night,DRYER_1,Belt tracking,Mechanical,20
+941,2026-04-08,Night,DRYER_1,Dryer plug / material buildup,Process,50
+942,2026-04-08,Night,DRYER_1,Minor jam clearing,Mechanical,10
+943,2026-04-08,Night,DRYER_1,Sensor fault reset,Electrical,5
+944,2026-04-08,Night,DRYER_2,Wet bin plug,Process,15
+945,2026-04-08,Night,DRYER_2,Wet bin plug,Process,35
+946,2026-04-08,Night,DRYER_2,Minor jam clearing,Mechanical,5
+947,2026-04-08,Night,DRYER_2,Minor jam clearing,Mechanical,10
+948,2026-04-09,Day,DRYER_1,ID fan damper fault,Mechanical,30
+949,2026-04-09,Day,DRYER_1,Wet bin plug,Process,50
+950,2026-04-09,Day,DRYER_1,Minor jam clearing,Mechanical,10
+951,2026-04-09,Day,DRYER_1,Minor jam clearing,Mechanical,5
+952,2026-04-09,Day,DRYER_2,Dry bin full,Blocked,39
+953,2026-04-09,Day,DRYER_2,Green end down - flaker,Starved,16
+954,2026-04-09,Day,DRYER_2,Press down,Blocked,98
+955,2026-04-09,Night,DRYER_1,Wet bin plug,Process,65
+956,2026-04-09,Night,DRYER_2,Drag chain failure,Mechanical,125
+957,2026-04-09,Night,DRYER_2,Wet bin plug,Process,40
+958,2026-04-09,Night,DRYER_2,Moisture control out of spec,Process,10
+959,2026-04-09,Night,DRYER_2,Dryer plug / material buildup,Process,20
+960,2026-04-09,Night,DRYER_2,Moisture control out of spec,Process,25
+961,2026-04-09,Night,DRYER_2,Operator adjustment,Process,5
+962,2026-04-09,Night,DRYER_2,Sensor fault reset,Electrical,5
+963,2026-04-09,Night,DRYER_2,Operator adjustment,Process,10
+964,2026-04-10,Day,DRYER_1,Wet bin plug,Process,35
+965,2026-04-10,Day,DRYER_1,Minor jam clearing,Mechanical,5
+966,2026-04-10,Day,DRYER_1,Wet bin empty,Starved,59
+967,2026-04-10,Day,DRYER_2,Operator adjustment,Process,5
+968,2026-04-10,Night,DRYER_1,Belt tracking,Mechanical,25
+969,2026-04-10,Night,DRYER_1,Press down,Blocked,56
+970,2026-04-10,Night,DRYER_2,ID fan damper fault,Mechanical,10
+971,2026-04-10,Night,DRYER_2,Belt tracking,Mechanical,20
+972,2026-04-10,Night,DRYER_2,Operator adjustment,Process,10
+973,2026-04-11,Day,DRYER_1,Moisture control out of spec,Process,20
+974,2026-04-11,Day,DRYER_1,Operator adjustment,Process,5
+975,2026-04-11,Day,DRYER_1,Dry bin full,Blocked,84
+976,2026-04-11,Day,DRYER_1,Dry bin full,Blocked,25
+977,2026-04-11,Day,DRYER_2,Temperature control loop fault,Electrical,40
+978,2026-04-11,Day,DRYER_2,Moisture control out of spec,Process,45
+979,2026-04-11,Day,DRYER_2,Minor jam clearing,Mechanical,15
+980,2026-04-11,Day,DRYER_2,Press down,Blocked,25
+981,2026-04-11,Night,DRYER_1,Dryer plug / material buildup,Process,20
+982,2026-04-11,Night,DRYER_1,Green end down - flaker,Starved,39
+983,2026-04-11,Night,DRYER_2,Drive motor fault,Electrical,30
+984,2026-04-11,Night,DRYER_2,Operator adjustment,Process,5
+985,2026-04-12,Day,DRYER_1,Temperature control loop fault,Electrical,70
+986,2026-04-12,Day,DRYER_2,Belt tracking,Mechanical,35
+987,2026-04-12,Day,DRYER_2,Press down,Blocked,18
+988,2026-04-12,Night,DRYER_2,Wet bin plug,Process,30
+989,2026-04-13,Day,DRYER_1,Wet bin plug,Process,20
+990,2026-04-13,Day,DRYER_1,Belt tracking,Mechanical,20
+991,2026-04-13,Day,DRYER_2,Dryer plug / material buildup,Process,15
+992,2026-04-13,Day,DRYER_2,Sensor fault reset,Electrical,5
+993,2026-04-13,Night,DRYER_1,Wet bin plug,Process,15
+994,2026-04-13,Night,DRYER_1,Green end down - flaker,Starved,58
+995,2026-04-13,Night,DRYER_1,Dry bin full,Blocked,33
+996,2026-04-13,Night,DRYER_2,Dryer plug / material buildup,Process,20
+997,2026-04-13,Night,DRYER_2,Minor jam clearing,Mechanical,10
+998,2026-04-14,Night,DRYER_1,Belt tracking,Mechanical,10
+999,2026-04-14,Night,DRYER_1,Dryer plug / material buildup,Process,15
+1000,2026-04-14,Night,DRYER_1,Wet bin plug,Process,25
+1001,2026-04-14,Night,DRYER_1,Operator adjustment,Process,10
+1002,2026-04-14,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1003,2026-04-15,Day,DRYER_1,Burner flame-out,Process,35
+1004,2026-04-15,Day,DRYER_1,Wet bin empty,Starved,28
+1005,2026-04-15,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1006,2026-04-15,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1007,2026-04-15,Night,DRYER_1,ID fan damper fault,Mechanical,15
+1008,2026-04-15,Night,DRYER_1,Wet bin plug,Process,20
+1009,2026-04-15,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1010,2026-04-15,Night,DRYER_1,Dry bin full,Blocked,41
+1011,2026-04-15,Night,DRYER_2,Moisture control out of spec,Process,20
+1012,2026-04-16,Day,DRYER_1,Spark detection trip,Fire/Safety,70
+1013,2026-04-16,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1014,2026-04-16,Day,DRYER_1,Wet bin empty,Starved,40
+1015,2026-04-16,Day,DRYER_2,Wet bin plug,Process,40
+1016,2026-04-16,Day,DRYER_2,Wet bin empty,Starved,125
+1017,2026-04-16,Day,DRYER_2,Wet bin empty,Starved,58
+1018,2026-04-16,Day,DRYER_2,Green end down - flaker,Starved,13
+1019,2026-04-16,Day,DRYER_2,Wet bin empty,Starved,22
+1020,2026-04-16,Night,DRYER_1,Dry bin full,Blocked,24
+1021,2026-04-16,Night,DRYER_1,Press down,Blocked,19
+1022,2026-04-16,Night,DRYER_2,Dryer plug / material buildup,Process,40
+1023,2026-04-16,Night,DRYER_2,Belt tracking,Mechanical,20
+1024,2026-04-17,Day,DRYER_1,Temperature control loop fault,Electrical,20
+1025,2026-04-17,Day,DRYER_1,Moisture control out of spec,Process,40
+1026,2026-04-17,Day,DRYER_1,Wet bin plug,Process,40
+1027,2026-04-17,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1028,2026-04-17,Day,DRYER_2,Dry bin full,Blocked,49
+1029,2026-04-17,Night,DRYER_1,Dryer plug / material buildup,Process,30
+1030,2026-04-17,Night,DRYER_1,Moisture control out of spec,Process,35
+1031,2026-04-17,Night,DRYER_1,Dry bin full,Blocked,25
+1032,2026-04-17,Night,DRYER_1,Press down,Blocked,12
+1033,2026-04-18,Day,DRYER_1,ID fan damper fault,Mechanical,35
+1034,2026-04-18,Day,DRYER_1,Wet bin plug,Process,25
+1035,2026-04-18,Day,DRYER_1,Dryer plug / material buildup,Process,20
+1036,2026-04-18,Day,DRYER_1,Dryer plug / material buildup,Process,25
+1037,2026-04-18,Day,DRYER_2,Moisture control out of spec,Process,50
+1038,2026-04-18,Day,DRYER_2,Wet bin empty,Starved,20
+1039,2026-04-18,Night,DRYER_1,Screen change,Changeover,65
+1040,2026-04-18,Night,DRYER_1,Moisture control out of spec,Process,25
+1041,2026-04-18,Night,DRYER_2,Wet bin empty,Starved,40
+1042,2026-04-18,Night,DRYER_2,Wet bin empty,Starved,61
+1043,2026-04-19,Day,DRYER_1,Dryer plug / material buildup,Process,15
+1044,2026-04-19,Day,DRYER_1,Green end down - flaker,Starved,39
+1045,2026-04-19,Day,DRYER_2,Moisture control out of spec,Process,30
+1046,2026-04-19,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1047,2026-04-19,Night,DRYER_1,Burner flame-out,Process,50
+1048,2026-04-19,Night,DRYER_1,Dryer plug / material buildup,Process,35
+1049,2026-04-19,Night,DRYER_1,Belt tracking,Mechanical,10
+1050,2026-04-19,Night,DRYER_1,Moisture control out of spec,Process,25
+1051,2026-04-19,Night,DRYER_1,Moisture control out of spec,Process,20
+1052,2026-04-19,Night,DRYER_1,Wet bin plug,Process,25
+1053,2026-04-19,Night,DRYER_1,Wet bin plug,Process,50
+1054,2026-04-19,Night,DRYER_2,Belt tracking,Mechanical,20
+1055,2026-04-19,Night,DRYER_2,Belt tracking,Mechanical,20
+1056,2026-04-19,Night,DRYER_2,Moisture control out of spec,Process,25
+1057,2026-04-19,Night,DRYER_2,Minor jam clearing,Mechanical,10
+1058,2026-04-19,Night,DRYER_2,Operator adjustment,Process,10
+1059,2026-04-20,Day,DRYER_1,Temperature control loop fault,Electrical,25
+1060,2026-04-20,Day,DRYER_1,Minor jam clearing,Mechanical,10
+1061,2026-04-20,Day,DRYER_1,Sensor fault reset,Electrical,5
+1062,2026-04-20,Day,DRYER_1,Dry bin full,Blocked,95
+1063,2026-04-20,Day,DRYER_1,Dry bin full,Blocked,66
+1064,2026-04-20,Day,DRYER_2,Wet bin plug,Process,25
+1065,2026-04-20,Day,DRYER_2,Dry bin full,Blocked,71
+1066,2026-04-20,Night,DRYER_1,Discharge conveyor bearing,Mechanical,170
+1067,2026-04-20,Night,DRYER_1,Dryer plug / material buildup,Process,25
+1068,2026-04-20,Night,DRYER_1,Belt tracking,Mechanical,25
+1069,2026-04-20,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1070,2026-04-20,Night,DRYER_2,Wet bin plug,Process,20
+1071,2026-04-21,Day,DRYER_1,Temperature control loop fault,Electrical,15
+1072,2026-04-21,Day,DRYER_2,Temperature control loop fault,Electrical,35
+1073,2026-04-21,Night,DRYER_1,Wet bin plug,Process,40
+1074,2026-04-21,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1075,2026-04-21,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1076,2026-04-22,Day,DRYER_1,Dryer plug / material buildup,Process,25
+1077,2026-04-22,Day,DRYER_1,Temperature control loop fault,Electrical,25
+1078,2026-04-22,Day,DRYER_1,Dryer plug / material buildup,Process,65
+1079,2026-04-22,Day,DRYER_1,Operator adjustment,Process,10
+1080,2026-04-22,Day,DRYER_1,Green end down - flaker,Starved,31
+1081,2026-04-22,Day,DRYER_2,Dry bin full,Blocked,87
+1082,2026-04-22,Night,DRYER_1,Operator adjustment,Process,10
+1083,2026-04-22,Night,DRYER_1,Minor jam clearing,Mechanical,15
+1084,2026-04-22,Night,DRYER_2,Wet bin plug,Process,55
+1085,2026-04-22,Night,DRYER_2,Dryer plug / material buildup,Process,15
+1086,2026-04-22,Night,DRYER_2,Dryer plug / material buildup,Process,35
+1087,2026-04-22,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1088,2026-04-22,Night,DRYER_2,Operator adjustment,Process,10
+1089,2026-04-22,Night,DRYER_2,Press down,Blocked,17
+1090,2026-04-23,Day,DRYER_1,Wet bin plug,Process,20
+1091,2026-04-23,Day,DRYER_1,Minor jam clearing,Mechanical,10
+1092,2026-04-23,Day,DRYER_1,Dry bin full,Blocked,97
+1093,2026-04-23,Day,DRYER_2,Green end down - flaker,Starved,22
+1094,2026-04-23,Day,DRYER_2,Wet bin empty,Starved,45
+1095,2026-04-23,Night,DRYER_1,Drive motor fault,Electrical,70
+1096,2026-04-23,Night,DRYER_1,Dryer plug / material buildup,Process,60
+1097,2026-04-23,Night,DRYER_1,Dryer plug / material buildup,Process,35
+1098,2026-04-23,Night,DRYER_2,Moisture control out of spec,Process,25
+1099,2026-04-23,Night,DRYER_2,Moisture control out of spec,Process,10
+1100,2026-04-23,Night,DRYER_2,Operator adjustment,Process,10
+1101,2026-04-23,Night,DRYER_2,Press down,Blocked,24
+1102,2026-04-24,Day,DRYER_1,Wet bin plug,Process,20
+1103,2026-04-24,Day,DRYER_1,Minor jam clearing,Mechanical,15
+1104,2026-04-24,Day,DRYER_1,Press down,Blocked,104
+1105,2026-04-24,Day,DRYER_2,Belt tracking,Mechanical,20
+1106,2026-04-24,Night,DRYER_1,Wet bin plug,Process,15
+1107,2026-04-24,Night,DRYER_1,Wet bin plug,Process,40
+1108,2026-04-24,Night,DRYER_2,ID fan damper fault,Mechanical,30
+1109,2026-04-25,Day,DRYER_1,Temperature control loop fault,Electrical,55
+1110,2026-04-25,Day,DRYER_1,Belt tracking,Mechanical,25
+1111,2026-04-25,Day,DRYER_1,Operator adjustment,Process,5
+1112,2026-04-25,Day,DRYER_1,Operator adjustment,Process,5
+1113,2026-04-25,Day,DRYER_1,Dry bin full,Blocked,36
+1114,2026-04-25,Day,DRYER_2,Moisture control out of spec,Process,25
+1115,2026-04-25,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1116,2026-04-26,Day,DRYER_1,Belt tracking,Mechanical,30
+1117,2026-04-26,Day,DRYER_1,Wet bin empty,Starved,47
+1118,2026-04-26,Night,DRYER_1,Belt tracking,Mechanical,25
+1119,2026-04-26,Night,DRYER_1,Dryer plug / material buildup,Process,20
+1120,2026-04-26,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1121,2026-04-26,Night,DRYER_1,Operator adjustment,Process,10
+1122,2026-04-26,Night,DRYER_1,Operator adjustment,Process,15
+1123,2026-04-26,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1124,2026-04-26,Night,DRYER_2,Operator adjustment,Process,5
+1125,2026-04-27,Day,DRYER_1,Dryer plug / material buildup,Process,30
+1126,2026-04-27,Day,DRYER_1,Wet bin plug,Process,20
+1127,2026-04-27,Day,DRYER_1,Moisture control out of spec,Process,20
+1128,2026-04-27,Day,DRYER_1,Belt tracking,Mechanical,15
+1129,2026-04-27,Day,DRYER_2,Operator adjustment,Process,10
+1130,2026-04-27,Day,DRYER_2,Operator adjustment,Process,10
+1131,2026-04-27,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1132,2026-04-27,Night,DRYER_1,Moisture control out of spec,Process,25
+1133,2026-04-28,Day,DRYER_1,Dryer plug / material buildup,Process,15
+1134,2026-04-28,Day,DRYER_1,Sensor fault reset,Electrical,5
+1135,2026-04-28,Day,DRYER_1,Wet bin empty,Starved,12
+1136,2026-04-28,Day,DRYER_2,Moisture control out of spec,Process,25
+1137,2026-04-28,Night,DRYER_1,Sensor fault reset,Electrical,5
+1138,2026-04-28,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1139,2026-04-28,Night,DRYER_2,Screen change,Changeover,30
+1140,2026-04-28,Night,DRYER_2,Moisture control out of spec,Process,40
+1141,2026-04-28,Night,DRYER_2,Wet bin plug,Process,20
+1142,2026-04-29,Day,DRYER_1,Wet bin plug,Process,25
+1143,2026-04-29,Day,DRYER_1,Operator adjustment,Process,15
+1144,2026-04-29,Day,DRYER_1,Sensor fault reset,Electrical,5
+1145,2026-04-29,Day,DRYER_2,ID fan damper fault,Mechanical,15
+1146,2026-04-29,Day,DRYER_2,Operator adjustment,Process,15
+1147,2026-04-29,Day,DRYER_2,Wet bin empty,Starved,57
+1148,2026-04-29,Night,DRYER_1,Dryer plug / material buildup,Process,60
+1149,2026-04-29,Night,DRYER_1,ID fan damper fault,Mechanical,30
+1150,2026-04-29,Night,DRYER_1,Temperature control loop fault,Electrical,20
+1151,2026-04-29,Night,DRYER_1,Green end down - flaker,Starved,16
+1152,2026-04-29,Night,DRYER_2,Cyclone plug,Process,60
+1153,2026-04-29,Night,DRYER_2,Wet bin empty,Starved,33
+1154,2026-04-29,Night,DRYER_2,Dry bin full,Blocked,44
+1155,2026-04-30,Day,DRYER_1,Moisture control out of spec,Process,20
+1156,2026-04-30,Night,DRYER_1,Dryer plug / material buildup,Process,20
+1157,2026-04-30,Night,DRYER_1,Belt tracking,Mechanical,20
+1158,2026-05-01,Day,DRYER_1,ID fan damper fault,Mechanical,10
+1159,2026-05-01,Day,DRYER_1,Wet bin plug,Process,20
+1160,2026-05-01,Day,DRYER_1,Belt tracking,Mechanical,15
+1161,2026-05-01,Day,DRYER_2,Spark detection trip,Fire/Safety,135
+1162,2026-05-01,Day,DRYER_2,Belt tracking,Mechanical,25
+1163,2026-05-01,Night,DRYER_1,Operator adjustment,Process,5
+1164,2026-05-01,Night,DRYER_1,Green end down - flaker,Starved,39
+1165,2026-05-01,Night,DRYER_1,Dry bin full,Blocked,114
+1166,2026-05-01,Night,DRYER_2,Screen change,Changeover,40
+1167,2026-05-02,Day,DRYER_1,Dryer plug / material buildup,Process,35
+1168,2026-05-02,Day,DRYER_1,Sensor fault reset,Electrical,10
+1169,2026-05-02,Day,DRYER_1,Press down,Blocked,28
+1170,2026-05-02,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1171,2026-05-02,Night,DRYER_1,Wet bin plug,Process,35
+1172,2026-05-02,Night,DRYER_1,Operator adjustment,Process,5
+1173,2026-05-02,Night,DRYER_2,Operator adjustment,Process,10
+1174,2026-05-02,Night,DRYER_2,Wet bin empty,Starved,65
+1175,2026-05-02,Night,DRYER_2,Wet bin empty,Starved,23
+1176,2026-05-03,Day,DRYER_1,Wet bin plug,Process,40
+1177,2026-05-03,Day,DRYER_1,Sensor fault reset,Electrical,5
+1178,2026-05-03,Day,DRYER_1,Press down,Blocked,22
+1179,2026-05-03,Day,DRYER_1,Green end down - flaker,Starved,93
+1180,2026-05-03,Day,DRYER_1,Dry bin full,Blocked,62
+1181,2026-05-03,Day,DRYER_2,Moisture control out of spec,Process,15
+1182,2026-05-03,Night,DRYER_1,Belt tracking,Mechanical,10
+1183,2026-05-03,Night,DRYER_1,Operator adjustment,Process,10
+1184,2026-05-03,Night,DRYER_2,Temperature control loop fault,Electrical,25
+1185,2026-05-03,Night,DRYER_2,Operator adjustment,Process,5
+1186,2026-05-04,Night,DRYER_1,Dryer plug / material buildup,Process,30
+1187,2026-05-04,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1188,2026-05-04,Night,DRYER_1,Dry bin full,Blocked,25
+1189,2026-05-04,Night,DRYER_1,Press down,Blocked,39
+1190,2026-05-04,Night,DRYER_2,Moisture control out of spec,Process,20
+1191,2026-05-04,Night,DRYER_2,Dry bin full,Blocked,40
+1192,2026-05-05,Day,DRYER_1,ID fan damper fault,Mechanical,25
+1193,2026-05-05,Day,DRYER_1,Minor jam clearing,Mechanical,10
+1194,2026-05-05,Day,DRYER_1,Press down,Blocked,50
+1195,2026-05-05,Day,DRYER_1,Wet bin empty,Starved,69
+1196,2026-05-05,Day,DRYER_1,Press down,Blocked,12
+1197,2026-05-05,Day,DRYER_1,Dry bin full,Blocked,23
+1198,2026-05-05,Day,DRYER_2,Wet bin plug,Process,20
+1199,2026-05-05,Day,DRYER_2,Dry bin full,Blocked,54
+1200,2026-05-05,Day,DRYER_2,Dry bin full,Blocked,130
+1201,2026-05-05,Night,DRYER_1,Operator adjustment,Process,5
+1202,2026-05-05,Night,DRYER_1,Press down,Blocked,169
+1203,2026-05-05,Night,DRYER_1,Green end down - flaker,Starved,29
+1204,2026-05-05,Night,DRYER_1,Wet bin empty,Starved,29
+1205,2026-05-05,Night,DRYER_2,Screen change,Changeover,115
+1206,2026-05-05,Night,DRYER_2,Moisture control out of spec,Process,50
+1207,2026-05-05,Night,DRYER_2,Operator adjustment,Process,10
+1208,2026-05-05,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1209,2026-05-05,Night,DRYER_2,Dry bin full,Blocked,61
+1210,2026-05-06,Day,DRYER_1,Drag chain failure,Mechanical,100
+1211,2026-05-06,Day,DRYER_1,Dryer plug / material buildup,Process,25
+1212,2026-05-06,Day,DRYER_1,ID fan damper fault,Mechanical,15
+1213,2026-05-06,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1214,2026-05-06,Day,DRYER_1,Dry bin full,Blocked,19
+1215,2026-05-06,Day,DRYER_2,Temperature control loop fault,Electrical,20
+1216,2026-05-06,Night,DRYER_1,Belt tracking,Mechanical,15
+1217,2026-05-06,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1218,2026-05-07,Day,DRYER_2,ID fan damper fault,Mechanical,10
+1219,2026-05-07,Day,DRYER_2,Dryer plug / material buildup,Process,40
+1220,2026-05-07,Day,DRYER_2,Wet bin empty,Starved,18
+1221,2026-05-07,Night,DRYER_1,Moisture control out of spec,Process,25
+1222,2026-05-07,Night,DRYER_2,Discharge conveyor bearing,Mechanical,245
+1223,2026-05-07,Night,DRYER_2,Moisture control out of spec,Process,25
+1224,2026-05-07,Night,DRYER_2,Dryer plug / material buildup,Process,30
+1225,2026-05-08,Day,DRYER_1,Temperature control loop fault,Electrical,25
+1226,2026-05-08,Day,DRYER_1,Belt tracking,Mechanical,15
+1227,2026-05-08,Day,DRYER_2,Moisture control out of spec,Process,30
+1228,2026-05-08,Day,DRYER_2,Temperature control loop fault,Electrical,35
+1229,2026-05-08,Day,DRYER_2,Dry bin full,Blocked,20
+1230,2026-05-08,Day,DRYER_2,Wet bin empty,Starved,10
+1231,2026-05-08,Night,DRYER_1,Belt tracking,Mechanical,10
+1232,2026-05-08,Night,DRYER_2,Dryer plug / material buildup,Process,25
+1233,2026-05-08,Night,DRYER_2,Sensor fault reset,Electrical,5
+1234,2026-05-08,Night,DRYER_2,Press down,Blocked,133
+1235,2026-05-09,Day,DRYER_1,Belt tracking,Mechanical,20
+1236,2026-05-09,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1237,2026-05-09,Day,DRYER_2,Temperature control loop fault,Electrical,25
+1238,2026-05-09,Day,DRYER_2,Dry bin full,Blocked,54
+1239,2026-05-09,Night,DRYER_1,Temperature control loop fault,Electrical,30
+1240,2026-05-09,Night,DRYER_1,Moisture control out of spec,Process,30
+1241,2026-05-09,Night,DRYER_2,ID fan damper fault,Mechanical,10
+1242,2026-05-09,Night,DRYER_2,Temperature control loop fault,Electrical,30
+1243,2026-05-09,Night,DRYER_2,Wet bin empty,Starved,17
+1244,2026-05-09,Night,DRYER_2,Green end down - flaker,Starved,16
+1245,2026-05-10,Day,DRYER_1,Spark detection trip,Fire/Safety,90
+1246,2026-05-10,Day,DRYER_2,Operator adjustment,Process,5
+1247,2026-05-10,Day,DRYER_2,Wet bin empty,Starved,11
+1248,2026-05-10,Day,DRYER_2,Green end down - flaker,Starved,78
+1249,2026-05-10,Day,DRYER_2,Dry bin full,Blocked,17
+1250,2026-05-10,Night,DRYER_1,Moisture control out of spec,Process,20
+1251,2026-05-10,Night,DRYER_2,Wet bin empty,Starved,66
+1252,2026-05-10,Night,DRYER_2,Wet bin empty,Starved,34
+1253,2026-05-11,Day,DRYER_1,Belt tracking,Mechanical,35
+1254,2026-05-11,Day,DRYER_1,Moisture control out of spec,Process,15
+1255,2026-05-11,Day,DRYER_2,Dryer plug / material buildup,Process,25
+1256,2026-05-11,Day,DRYER_2,Wet bin empty,Starved,21
+1257,2026-05-11,Day,DRYER_2,Dry bin full,Blocked,22
+1258,2026-05-11,Night,DRYER_1,Spark detection trip,Fire/Safety,290
+1259,2026-05-11,Night,DRYER_1,Dry bin full,Blocked,34
+1260,2026-05-11,Night,DRYER_1,Dry bin full,Blocked,15
+1261,2026-05-11,Night,DRYER_2,Operator adjustment,Process,15
+1262,2026-05-12,Day,DRYER_1,Moisture control out of spec,Process,25
+1263,2026-05-12,Day,DRYER_1,Wet bin plug,Process,30
+1264,2026-05-12,Day,DRYER_1,Operator adjustment,Process,10
+1265,2026-05-12,Day,DRYER_2,Belt tracking,Mechanical,45
+1266,2026-05-12,Day,DRYER_2,Dryer plug / material buildup,Process,15
+1267,2026-05-12,Night,DRYER_2,Screen change,Changeover,50
+1268,2026-05-12,Night,DRYER_2,Wet bin empty,Starved,62
+1269,2026-05-13,Day,DRYER_1,ID fan damper fault,Mechanical,10
+1270,2026-05-13,Day,DRYER_1,Moisture control out of spec,Process,55
+1271,2026-05-13,Day,DRYER_1,Dryer plug / material buildup,Process,40
+1272,2026-05-13,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1273,2026-05-13,Day,DRYER_2,ID fan damper fault,Mechanical,30
+1274,2026-05-13,Night,DRYER_1,Drive motor fault,Electrical,140
+1275,2026-05-13,Night,DRYER_1,Belt tracking,Mechanical,20
+1276,2026-05-13,Night,DRYER_1,Operator adjustment,Process,10
+1277,2026-05-13,Night,DRYER_1,Wet bin empty,Starved,43
+1278,2026-05-13,Night,DRYER_2,Operator adjustment,Process,5
+1279,2026-05-13,Night,DRYER_2,Green end down - flaker,Starved,15
+1280,2026-05-13,Night,DRYER_2,Green end down - flaker,Starved,6
+1281,2026-05-14,Day,DRYER_1,ID fan damper fault,Mechanical,25
+1282,2026-05-14,Day,DRYER_1,Wet bin empty,Starved,33
+1283,2026-05-14,Day,DRYER_2,Green end down - flaker,Starved,20
+1284,2026-05-14,Night,DRYER_1,Belt tracking,Mechanical,10
+1285,2026-05-14,Night,DRYER_1,Minor jam clearing,Mechanical,10
+1286,2026-05-14,Night,DRYER_2,Moisture control out of spec,Process,10
+1287,2026-05-14,Night,DRYER_2,Dryer plug / material buildup,Process,15
+1288,2026-05-14,Night,DRYER_2,Sensor fault reset,Electrical,5
+1289,2026-05-15,Day,DRYER_1,Discharge conveyor bearing,Mechanical,205
+1290,2026-05-15,Day,DRYER_1,Sensor fault reset,Electrical,5
+1291,2026-05-15,Day,DRYER_1,Dry bin full,Blocked,11
+1292,2026-05-15,Day,DRYER_1,Green end down - flaker,Starved,30
+1293,2026-05-15,Day,DRYER_2,Belt tracking,Mechanical,10
+1294,2026-05-15,Night,DRYER_1,Wet bin empty,Starved,35
+1295,2026-05-15,Night,DRYER_1,Press down,Blocked,44
+1296,2026-05-15,Night,DRYER_2,Operator adjustment,Process,5
+1297,2026-05-16,Day,DRYER_1,Operator adjustment,Process,5
+1298,2026-05-16,Day,DRYER_2,Cyclone plug,Process,70
+1299,2026-05-16,Day,DRYER_2,Screen change,Changeover,50
+1300,2026-05-16,Day,DRYER_2,Wet bin plug,Process,60
+1301,2026-05-16,Night,DRYER_1,Dryer plug / material buildup,Process,25
+1302,2026-05-16,Night,DRYER_1,Dryer plug / material buildup,Process,25
+1303,2026-05-16,Night,DRYER_1,Operator adjustment,Process,5
+1304,2026-05-16,Night,DRYER_1,Wet bin empty,Starved,54
+1305,2026-05-16,Night,DRYER_2,Screen change,Changeover,110
+1306,2026-05-16,Night,DRYER_2,Moisture control out of spec,Process,25
+1307,2026-05-16,Night,DRYER_2,Operator adjustment,Process,5
+1308,2026-05-17,Day,DRYER_1,Drag chain failure,Mechanical,65
+1309,2026-05-17,Day,DRYER_1,ID fan damper fault,Mechanical,30
+1310,2026-05-17,Day,DRYER_1,Press down,Blocked,31
+1311,2026-05-17,Night,DRYER_1,Wet bin plug,Process,40
+1312,2026-05-17,Night,DRYER_2,Drag chain failure,Mechanical,160
+1313,2026-05-17,Night,DRYER_2,Moisture control out of spec,Process,30
+1314,2026-05-17,Night,DRYER_2,Wet bin plug,Process,20
+1315,2026-05-17,Night,DRYER_2,Operator adjustment,Process,5
+1316,2026-05-18,Day,DRYER_2,Cyclone plug,Process,75
+1317,2026-05-18,Day,DRYER_2,Temperature control loop fault,Electrical,45
+1318,2026-05-18,Night,DRYER_1,Moisture control out of spec,Process,30
+1319,2026-05-18,Night,DRYER_2,Minor jam clearing,Mechanical,10
+1320,2026-05-18,Night,DRYER_2,Operator adjustment,Process,5
+1321,2026-05-19,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1322,2026-05-19,Day,DRYER_2,Wet bin empty,Starved,34
+1323,2026-05-19,Night,DRYER_1,Press down,Blocked,49
+1324,2026-05-19,Night,DRYER_1,Wet bin empty,Starved,27
+1325,2026-05-20,Night,DRYER_1,ID fan damper fault,Mechanical,20
+1326,2026-05-20,Night,DRYER_2,Dryer plug / material buildup,Process,25
+1327,2026-05-20,Night,DRYER_2,ID fan damper fault,Mechanical,25
+1328,2026-05-20,Night,DRYER_2,Press down,Blocked,61
+1329,2026-05-20,Night,DRYER_2,Dry bin full,Blocked,27
+1330,2026-05-20,Night,DRYER_2,Dry bin full,Blocked,42
+1331,2026-05-20,Night,DRYER_2,Wet bin empty,Starved,70
+1332,2026-05-21,Day,DRYER_1,Dryer plug / material buildup,Process,20
+1333,2026-05-21,Day,DRYER_1,Operator adjustment,Process,5
+1334,2026-05-21,Day,DRYER_2,Green end down - flaker,Starved,37
+1335,2026-05-21,Night,DRYER_1,Minor jam clearing,Mechanical,10
+1336,2026-05-21,Night,DRYER_2,Dryer plug / material buildup,Process,15
+1337,2026-05-21,Night,DRYER_2,Press down,Blocked,32
+1338,2026-05-22,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1339,2026-05-22,Day,DRYER_2,Dry bin full,Blocked,56
+1340,2026-05-22,Night,DRYER_2,Dry bin full,Blocked,30
+1341,2026-05-23,Day,DRYER_2,Temperature control loop fault,Electrical,15
+1342,2026-05-23,Day,DRYER_2,Dryer plug / material buildup,Process,25
+1343,2026-05-23,Night,DRYER_1,Sensor fault reset,Electrical,5
+1344,2026-05-23,Night,DRYER_1,Wet bin empty,Starved,96
+1345,2026-05-23,Night,DRYER_2,Sensor fault reset,Electrical,5
+1346,2026-05-23,Night,DRYER_2,Sensor fault reset,Electrical,5
+1347,2026-05-24,Day,DRYER_2,Dryer plug / material buildup,Process,15
+1348,2026-05-24,Day,DRYER_2,Green end down - flaker,Starved,10
+1349,2026-05-24,Day,DRYER_2,Dry bin full,Blocked,10
+1350,2026-05-24,Night,DRYER_1,Screen change,Changeover,160
+1351,2026-05-24,Night,DRYER_1,Dryer plug / material buildup,Process,40
+1352,2026-05-24,Night,DRYER_2,Belt tracking,Mechanical,25
+1353,2026-05-24,Night,DRYER_2,Green end down - flaker,Starved,18
+1354,2026-05-25,Day,DRYER_1,Temperature control loop fault,Electrical,15
+1355,2026-05-25,Day,DRYER_1,Press down,Blocked,24
+1356,2026-05-25,Day,DRYER_2,Cyclone plug,Process,130
+1357,2026-05-25,Night,DRYER_1,Drive motor fault,Electrical,85
+1358,2026-05-25,Night,DRYER_1,Moisture control out of spec,Process,40
+1359,2026-05-25,Night,DRYER_1,ID fan damper fault,Mechanical,20
+1360,2026-05-25,Night,DRYER_1,Minor jam clearing,Mechanical,10
+1361,2026-05-25,Night,DRYER_1,Operator adjustment,Process,5
+1362,2026-05-25,Night,DRYER_1,Wet bin empty,Starved,29
+1363,2026-05-25,Night,DRYER_2,Operator adjustment,Process,5
+1364,2026-05-25,Night,DRYER_2,Sensor fault reset,Electrical,5
+1365,2026-05-26,Day,DRYER_1,Minor jam clearing,Mechanical,10
+1366,2026-05-26,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1367,2026-05-26,Day,DRYER_1,Sensor fault reset,Electrical,5
+1368,2026-05-26,Day,DRYER_1,Dry bin full,Blocked,45
+1369,2026-05-26,Day,DRYER_2,Moisture control out of spec,Process,30
+1370,2026-05-26,Day,DRYER_2,Wet bin empty,Starved,40
+1371,2026-05-26,Night,DRYER_1,Belt tracking,Mechanical,10
+1372,2026-05-26,Night,DRYER_1,Dry bin full,Blocked,30
+1373,2026-05-26,Night,DRYER_2,Moisture control out of spec,Process,45
+1374,2026-05-26,Night,DRYER_2,Sensor fault reset,Electrical,5
+1375,2026-05-27,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1376,2026-05-27,Day,DRYER_1,Sensor fault reset,Electrical,5
+1377,2026-05-27,Day,DRYER_1,Operator adjustment,Process,5
+1378,2026-05-27,Day,DRYER_2,Spark detection trip,Fire/Safety,60
+1379,2026-05-27,Day,DRYER_2,Dryer plug / material buildup,Process,40
+1380,2026-05-27,Day,DRYER_2,Moisture control out of spec,Process,15
+1381,2026-05-27,Night,DRYER_2,ID fan damper fault,Mechanical,30
+1382,2026-05-27,Night,DRYER_2,Moisture control out of spec,Process,20
+1383,2026-05-27,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1384,2026-05-27,Night,DRYER_2,Minor jam clearing,Mechanical,10
+1385,2026-05-28,Day,DRYER_1,Wet bin plug,Process,5
+1386,2026-05-28,Day,DRYER_2,Operator adjustment,Process,5
+1387,2026-05-28,Day,DRYER_2,Press down,Blocked,42
+1388,2026-05-28,Night,DRYER_1,Dryer plug / material buildup,Process,40
+1389,2026-05-28,Night,DRYER_1,Wet bin plug,Process,30
+1390,2026-05-28,Night,DRYER_1,Operator adjustment,Process,10
+1391,2026-05-28,Night,DRYER_2,ID fan damper fault,Mechanical,25
+1392,2026-05-28,Night,DRYER_2,Wet bin plug,Process,45
+1393,2026-05-28,Night,DRYER_2,ID fan damper fault,Mechanical,25
+1394,2026-05-29,Day,DRYER_1,Cyclone plug,Process,135
+1395,2026-05-29,Day,DRYER_1,Dryer plug / material buildup,Process,30
+1396,2026-05-29,Day,DRYER_1,Operator adjustment,Process,5
+1397,2026-05-29,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1398,2026-05-29,Night,DRYER_1,Temperature control loop fault,Electrical,20
+1399,2026-05-29,Night,DRYER_1,Belt tracking,Mechanical,15
+1400,2026-05-29,Night,DRYER_1,Green end down - flaker,Starved,59
+1401,2026-05-29,Night,DRYER_2,Operator adjustment,Process,15
+1402,2026-05-29,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1403,2026-05-30,Day,DRYER_1,Moisture control out of spec,Process,15
+1404,2026-05-30,Day,DRYER_1,ID fan damper fault,Mechanical,15
+1405,2026-05-30,Day,DRYER_1,Wet bin plug,Process,15
+1406,2026-05-30,Day,DRYER_1,Press down,Blocked,27
+1407,2026-05-30,Day,DRYER_1,Press down,Blocked,24
+1408,2026-05-30,Day,DRYER_1,Press down,Blocked,39
+1409,2026-05-30,Day,DRYER_1,Dry bin full,Blocked,72
+1410,2026-05-30,Day,DRYER_2,Dryer plug / material buildup,Process,45
+1411,2026-05-30,Day,DRYER_2,Press down,Blocked,43
+1412,2026-05-30,Night,DRYER_1,Burner flame-out,Process,80
+1413,2026-05-30,Night,DRYER_1,Temperature control loop fault,Electrical,25
+1414,2026-05-30,Night,DRYER_1,ID fan damper fault,Mechanical,20
+1415,2026-05-30,Night,DRYER_1,ID fan damper fault,Mechanical,25
+1416,2026-05-30,Night,DRYER_1,Sensor fault reset,Electrical,5
+1417,2026-05-30,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1418,2026-05-30,Night,DRYER_1,Wet bin empty,Starved,15
+1419,2026-05-30,Night,DRYER_1,Press down,Blocked,71
+1420,2026-05-30,Night,DRYER_1,Dry bin full,Blocked,22
+1421,2026-05-30,Night,DRYER_1,Dry bin full,Blocked,35
+1422,2026-05-30,Night,DRYER_2,Press down,Blocked,26
+1423,2026-05-30,Night,DRYER_2,Green end down - flaker,Starved,13
+1424,2026-05-31,Day,DRYER_1,Belt tracking,Mechanical,15
+1425,2026-05-31,Day,DRYER_1,Sensor fault reset,Electrical,5
+1426,2026-05-31,Day,DRYER_1,Dry bin full,Blocked,53
+1427,2026-05-31,Day,DRYER_2,Belt tracking,Mechanical,45
+1428,2026-05-31,Night,DRYER_1,Wet bin empty,Starved,30
+1429,2026-05-31,Night,DRYER_2,Moisture control out of spec,Process,30
+1430,2026-05-31,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1431,2026-05-31,Night,DRYER_2,Press down,Blocked,59
+1432,2026-06-01,Day,DRYER_1,Dryer plug / material buildup,Process,30
+1433,2026-06-01,Day,DRYER_2,Operator adjustment,Process,10
+1434,2026-06-01,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1435,2026-06-01,Night,DRYER_1,Dryer plug / material buildup,Process,40
+1436,2026-06-01,Night,DRYER_1,Temperature control loop fault,Electrical,25
+1437,2026-06-01,Night,DRYER_1,Dry bin full,Blocked,64
+1438,2026-06-02,Day,DRYER_1,Operator adjustment,Process,10
+1439,2026-06-02,Day,DRYER_1,Operator adjustment,Process,5
+1440,2026-06-02,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1441,2026-06-02,Day,DRYER_2,Operator adjustment,Process,15
+1442,2026-06-02,Day,DRYER_2,Dry bin full,Blocked,14
+1443,2026-06-02,Night,DRYER_1,ID fan damper fault,Mechanical,40
+1444,2026-06-02,Night,DRYER_2,Operator adjustment,Process,5
+1445,2026-06-02,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1446,2026-06-03,Day,DRYER_1,Moisture control out of spec,Process,20
+1447,2026-06-03,Day,DRYER_1,Sensor fault reset,Electrical,5
+1448,2026-06-03,Day,DRYER_2,Dryer plug / material buildup,Process,25
+1449,2026-06-03,Day,DRYER_2,Wet bin plug,Process,25
+1450,2026-06-03,Day,DRYER_2,Green end down - flaker,Starved,92
+1451,2026-06-03,Night,DRYER_1,Operator adjustment,Process,10
+1452,2026-06-03,Night,DRYER_2,Moisture control out of spec,Process,20
+1453,2026-06-04,Day,DRYER_1,Burner flame-out,Process,35
+1454,2026-06-04,Day,DRYER_1,ID fan damper fault,Mechanical,20
+1455,2026-06-04,Day,DRYER_1,Wet bin plug,Process,20
+1456,2026-06-04,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1457,2026-06-04,Night,DRYER_1,Dry bin full,Blocked,43
+1458,2026-06-04,Night,DRYER_2,Operator adjustment,Process,15
+1459,2026-06-04,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1460,2026-06-04,Night,DRYER_2,Dry bin full,Blocked,25
+1461,2026-06-05,Day,DRYER_1,Dryer plug / material buildup,Process,25
+1462,2026-06-05,Day,DRYER_1,Moisture control out of spec,Process,40
+1463,2026-06-05,Day,DRYER_1,ID fan damper fault,Mechanical,10
+1464,2026-06-05,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1465,2026-06-05,Day,DRYER_1,Operator adjustment,Process,10
+1466,2026-06-05,Day,DRYER_2,Spark detection trip,Fire/Safety,55
+1467,2026-06-05,Day,DRYER_2,Moisture control out of spec,Process,20
+1468,2026-06-05,Day,DRYER_2,Operator adjustment,Process,5
+1469,2026-06-05,Night,DRYER_1,Moisture control out of spec,Process,25
+1470,2026-06-05,Night,DRYER_1,Belt tracking,Mechanical,20
+1471,2026-06-05,Night,DRYER_2,Wet bin plug,Process,15
+1472,2026-06-05,Night,DRYER_2,Dryer plug / material buildup,Process,40
+1473,2026-06-05,Night,DRYER_2,ID fan damper fault,Mechanical,20
+1474,2026-06-05,Night,DRYER_2,Sensor fault reset,Electrical,5
+1475,2026-06-05,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1476,2026-06-05,Night,DRYER_2,Green end down - flaker,Starved,45
+1477,2026-06-06,Day,DRYER_1,Belt tracking,Mechanical,30
+1478,2026-06-06,Day,DRYER_2,Green end down - flaker,Starved,10
+1479,2026-06-06,Night,DRYER_1,Belt tracking,Mechanical,20
+1480,2026-06-06,Night,DRYER_1,Temperature control loop fault,Electrical,30
+1481,2026-06-06,Night,DRYER_2,Dryer plug / material buildup,Process,20
+1482,2026-06-06,Night,DRYER_2,Dryer plug / material buildup,Process,30
+1483,2026-06-07,Day,DRYER_1,Drive motor fault,Electrical,300
+1484,2026-06-07,Day,DRYER_1,Belt tracking,Mechanical,30
+1485,2026-06-07,Day,DRYER_1,Moisture control out of spec,Process,20
+1486,2026-06-07,Day,DRYER_1,Minor jam clearing,Mechanical,10
+1487,2026-06-07,Day,DRYER_1,Wet bin empty,Starved,26
+1488,2026-06-07,Night,DRYER_1,Wet bin plug,Process,15
+1489,2026-06-07,Night,DRYER_2,Operator adjustment,Process,5
+1490,2026-06-08,Day,DRYER_2,Burner flame-out,Process,85
+1491,2026-06-08,Day,DRYER_2,Temperature control loop fault,Electrical,20
+1492,2026-06-08,Day,DRYER_2,Moisture control out of spec,Process,45
+1493,2026-06-08,Day,DRYER_2,Operator adjustment,Process,5
+1494,2026-06-08,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1495,2026-06-08,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1496,2026-06-08,Day,DRYER_2,Green end down - flaker,Starved,35
+1497,2026-06-08,Night,DRYER_1,Minor jam clearing,Mechanical,10
+1498,2026-06-08,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1499,2026-06-08,Night,DRYER_2,Wet bin empty,Starved,78
+1500,2026-06-09,Night,DRYER_1,Screen change,Changeover,50
+1501,2026-06-09,Night,DRYER_1,Green end down - flaker,Starved,39
+1502,2026-06-09,Night,DRYER_1,Dry bin full,Blocked,58
+1503,2026-06-09,Night,DRYER_2,Dryer plug / material buildup,Process,40
+1504,2026-06-09,Night,DRYER_2,ID fan damper fault,Mechanical,15
+1505,2026-06-10,Day,DRYER_1,Wet bin plug,Process,25
+1506,2026-06-10,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1507,2026-06-10,Day,DRYER_1,Press down,Blocked,32
+1508,2026-06-10,Day,DRYER_1,Press down,Blocked,37
+1509,2026-06-10,Day,DRYER_1,Green end down - flaker,Starved,138
+1510,2026-06-10,Day,DRYER_2,Dryer plug / material buildup,Process,20
+1511,2026-06-10,Day,DRYER_2,Temperature control loop fault,Electrical,20
+1512,2026-06-10,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1513,2026-06-10,Day,DRYER_2,Wet bin empty,Starved,43
+1514,2026-06-10,Day,DRYER_2,Wet bin empty,Starved,78
+1515,2026-06-10,Day,DRYER_2,Green end down - flaker,Starved,19
+1516,2026-06-10,Night,DRYER_1,Wet bin plug,Process,45
+1517,2026-06-10,Night,DRYER_2,Drag chain failure,Mechanical,150
+1518,2026-06-10,Night,DRYER_2,Press down,Blocked,21
+1519,2026-06-11,Day,DRYER_1,ID fan damper fault,Mechanical,15
+1520,2026-06-11,Day,DRYER_1,Dryer plug / material buildup,Process,40
+1521,2026-06-11,Day,DRYER_1,Sensor fault reset,Electrical,5
+1522,2026-06-11,Day,DRYER_1,Dry bin full,Blocked,27
+1523,2026-06-11,Day,DRYER_1,Dry bin full,Blocked,24
+1524,2026-06-11,Day,DRYER_1,Press down,Blocked,27
+1525,2026-06-11,Day,DRYER_1,Wet bin empty,Starved,42
+1526,2026-06-11,Day,DRYER_2,Cyclone plug,Process,65
+1527,2026-06-11,Day,DRYER_2,Operator adjustment,Process,10
+1528,2026-06-11,Night,DRYER_1,Sensor fault reset,Electrical,5
+1529,2026-06-11,Night,DRYER_1,Operator adjustment,Process,10
+1530,2026-06-11,Night,DRYER_1,Dry bin full,Blocked,18
+1531,2026-06-11,Night,DRYER_1,Press down,Blocked,39
+1532,2026-06-11,Night,DRYER_1,Dry bin full,Blocked,13
+1533,2026-06-12,Day,DRYER_1,Discharge conveyor bearing,Mechanical,135
+1534,2026-06-12,Day,DRYER_1,Dryer plug / material buildup,Process,25
+1535,2026-06-12,Day,DRYER_1,Moisture control out of spec,Process,10
+1536,2026-06-12,Day,DRYER_1,Wet bin empty,Starved,31
+1537,2026-06-12,Day,DRYER_2,Operator adjustment,Process,5
+1538,2026-06-12,Day,DRYER_2,Dry bin full,Blocked,59
+1539,2026-06-12,Night,DRYER_1,Moisture control out of spec,Process,30
+1540,2026-06-12,Night,DRYER_1,Belt tracking,Mechanical,20
+1541,2026-06-12,Night,DRYER_1,Sensor fault reset,Electrical,5
+1542,2026-06-12,Night,DRYER_1,Wet bin empty,Starved,15
+1543,2026-06-13,Day,DRYER_1,Wet bin plug,Process,35
+1544,2026-06-13,Day,DRYER_2,Spark detection trip,Fire/Safety,90
+1545,2026-06-13,Day,DRYER_2,Dry bin full,Blocked,37
+1546,2026-06-13,Night,DRYER_1,Press down,Blocked,82
+1547,2026-06-13,Night,DRYER_2,Burner flame-out,Process,55
+1548,2026-06-13,Night,DRYER_2,Operator adjustment,Process,10
+1549,2026-06-13,Night,DRYER_2,Operator adjustment,Process,10
+1550,2026-06-14,Day,DRYER_1,Belt tracking,Mechanical,20
+1551,2026-06-14,Day,DRYER_2,Operator adjustment,Process,5
+1552,2026-06-14,Night,DRYER_1,Discharge conveyor bearing,Mechanical,110
+1553,2026-06-14,Night,DRYER_1,Wet bin empty,Starved,27
+1554,2026-06-14,Night,DRYER_1,Dry bin full,Blocked,77
+1555,2026-06-14,Night,DRYER_2,Wet bin plug,Process,15
+1556,2026-06-15,Day,DRYER_1,Wet bin plug,Process,70
+1557,2026-06-15,Day,DRYER_1,Dryer plug / material buildup,Process,25
+1558,2026-06-15,Day,DRYER_1,Dryer plug / material buildup,Process,50
+1559,2026-06-15,Day,DRYER_1,Sensor fault reset,Electrical,5
+1560,2026-06-15,Day,DRYER_1,Press down,Blocked,38
+1561,2026-06-15,Day,DRYER_2,Moisture control out of spec,Process,20
+1562,2026-06-15,Day,DRYER_2,Moisture control out of spec,Process,40
+1563,2026-06-15,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1564,2026-06-15,Night,DRYER_1,Temperature control loop fault,Electrical,25
+1565,2026-06-15,Night,DRYER_1,Dryer plug / material buildup,Process,35
+1566,2026-06-15,Night,DRYER_1,Green end down - flaker,Starved,26
+1567,2026-06-15,Night,DRYER_2,Wet bin plug,Process,30
+1568,2026-06-15,Night,DRYER_2,Dryer plug / material buildup,Process,25
+1569,2026-06-16,Day,DRYER_1,Moisture control out of spec,Process,20
+1570,2026-06-16,Day,DRYER_1,Dryer plug / material buildup,Process,20
+1571,2026-06-16,Day,DRYER_1,Operator adjustment,Process,5
+1572,2026-06-16,Day,DRYER_1,Operator adjustment,Process,15
+1573,2026-06-16,Day,DRYER_2,Wet bin plug,Process,35
+1574,2026-06-16,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1575,2026-06-16,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1576,2026-06-16,Night,DRYER_1,Wet bin plug,Process,25
+1577,2026-06-16,Night,DRYER_1,Minor jam clearing,Mechanical,10
+1578,2026-06-16,Night,DRYER_1,Operator adjustment,Process,5
+1579,2026-06-16,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1580,2026-06-16,Night,DRYER_1,Operator adjustment,Process,5
+1581,2026-06-16,Night,DRYER_2,Wet bin plug,Process,35
+1582,2026-06-17,Day,DRYER_1,Operator adjustment,Process,10
+1583,2026-06-17,Day,DRYER_1,Operator adjustment,Process,5
+1584,2026-06-17,Day,DRYER_2,Belt tracking,Mechanical,15
+1585,2026-06-17,Day,DRYER_2,Wet bin plug,Process,105
+1586,2026-06-17,Day,DRYER_2,Sensor fault reset,Electrical,5
+1587,2026-06-17,Night,DRYER_1,Press down,Blocked,30
+1588,2026-06-17,Night,DRYER_2,Screen change,Changeover,50
+1589,2026-06-17,Night,DRYER_2,Moisture control out of spec,Process,25
+1590,2026-06-18,Day,DRYER_1,Sensor fault reset,Electrical,5
+1591,2026-06-18,Day,DRYER_2,Cyclone plug,Process,65
+1592,2026-06-18,Day,DRYER_2,Wet bin plug,Process,35
+1593,2026-06-18,Night,DRYER_1,Screen change,Changeover,45
+1594,2026-06-18,Night,DRYER_1,Minor jam clearing,Mechanical,10
+1595,2026-06-18,Night,DRYER_1,Operator adjustment,Process,10
+1596,2026-06-18,Night,DRYER_1,Press down,Blocked,38
+1597,2026-06-18,Night,DRYER_2,Screen change,Changeover,45
+1598,2026-06-18,Night,DRYER_2,Spark detection trip,Fire/Safety,105
+1599,2026-06-18,Night,DRYER_2,ID fan damper fault,Mechanical,25
+1600,2026-06-18,Night,DRYER_2,Wet bin plug,Process,15
+1601,2026-06-18,Night,DRYER_2,Belt tracking,Mechanical,35
+1602,2026-06-18,Night,DRYER_2,Sensor fault reset,Electrical,5
+1603,2026-06-18,Night,DRYER_2,Dry bin full,Blocked,42
+1604,2026-06-18,Night,DRYER_2,Green end down - flaker,Starved,77
+1605,2026-06-19,Day,DRYER_1,Belt tracking,Mechanical,15
+1606,2026-06-19,Day,DRYER_1,Belt tracking,Mechanical,15
+1607,2026-06-19,Day,DRYER_1,Operator adjustment,Process,5
+1608,2026-06-19,Day,DRYER_1,Wet bin empty,Starved,33
+1609,2026-06-19,Day,DRYER_2,Moisture control out of spec,Process,15
+1610,2026-06-19,Day,DRYER_2,Wet bin plug,Process,20
+1611,2026-06-19,Day,DRYER_2,Operator adjustment,Process,5
+1612,2026-06-19,Day,DRYER_2,Sensor fault reset,Electrical,10
+1613,2026-06-19,Night,DRYER_1,Wet bin plug,Process,25
+1614,2026-06-19,Night,DRYER_1,Press down,Blocked,40
+1615,2026-06-19,Night,DRYER_2,Cyclone plug,Process,140
+1616,2026-06-19,Night,DRYER_2,Moisture control out of spec,Process,35
+1617,2026-06-19,Night,DRYER_2,Sensor fault reset,Electrical,5
+1618,2026-06-19,Night,DRYER_2,Operator adjustment,Process,5
+1619,2026-06-20,Day,DRYER_1,Operator adjustment,Process,10
+1620,2026-06-20,Day,DRYER_1,Green end down - flaker,Starved,24
+1621,2026-06-20,Day,DRYER_1,Wet bin empty,Starved,50
+1622,2026-06-20,Day,DRYER_2,Wet bin plug,Process,35
+1623,2026-06-20,Day,DRYER_2,ID fan damper fault,Mechanical,25
+1624,2026-06-20,Day,DRYER_2,Wet bin empty,Starved,14
+1625,2026-06-20,Night,DRYER_1,Moisture control out of spec,Process,20
+1626,2026-06-20,Night,DRYER_1,Temperature control loop fault,Electrical,10
+1627,2026-06-20,Night,DRYER_1,Dryer plug / material buildup,Process,40
+1628,2026-06-20,Night,DRYER_2,Temperature control loop fault,Electrical,20
+1629,2026-06-20,Night,DRYER_2,Dryer plug / material buildup,Process,35
+1630,2026-06-20,Night,DRYER_2,Temperature control loop fault,Electrical,25
+1631,2026-06-20,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1632,2026-06-21,Day,DRYER_1,Press down,Blocked,40
+1633,2026-06-21,Day,DRYER_2,Press down,Blocked,15
+1634,2026-06-21,Night,DRYER_1,Belt tracking,Mechanical,10
+1635,2026-06-21,Night,DRYER_1,Wet bin plug,Process,35
+1636,2026-06-21,Night,DRYER_2,ID fan damper fault,Mechanical,10
+1637,2026-06-21,Night,DRYER_2,Operator adjustment,Process,10
+1638,2026-06-21,Night,DRYER_2,Operator adjustment,Process,10
+1639,2026-06-22,Day,DRYER_1,Sensor fault reset,Electrical,5
+1640,2026-06-22,Day,DRYER_1,Operator adjustment,Process,5
+1641,2026-06-22,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1642,2026-06-22,Day,DRYER_1,Operator adjustment,Process,5
+1643,2026-06-22,Day,DRYER_1,Press down,Blocked,18
+1644,2026-06-22,Day,DRYER_1,Press down,Blocked,16
+1645,2026-06-22,Day,DRYER_2,Belt tracking,Mechanical,35
+1646,2026-06-22,Day,DRYER_2,Moisture control out of spec,Process,15
+1647,2026-06-22,Day,DRYER_2,Temperature control loop fault,Electrical,30
+1648,2026-06-22,Day,DRYER_2,ID fan damper fault,Mechanical,35
+1649,2026-06-22,Night,DRYER_1,Moisture control out of spec,Process,30
+1650,2026-06-23,Day,DRYER_1,Belt tracking,Mechanical,10
+1651,2026-06-23,Day,DRYER_2,Temperature control loop fault,Electrical,40
+1652,2026-06-23,Day,DRYER_2,Green end down - flaker,Starved,105
+1653,2026-06-23,Day,DRYER_2,Dry bin full,Blocked,41
+1654,2026-06-23,Night,DRYER_1,Dryer plug / material buildup,Process,20
+1655,2026-06-23,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1656,2026-06-23,Night,DRYER_2,Operator adjustment,Process,5
+1657,2026-06-24,Day,DRYER_1,Operator adjustment,Process,10
+1658,2026-06-24,Day,DRYER_1,Operator adjustment,Process,5
+1659,2026-06-24,Day,DRYER_1,Green end down - flaker,Starved,34
+1660,2026-06-24,Day,DRYER_2,Sensor fault reset,Electrical,5
+1661,2026-06-24,Night,DRYER_1,Operator adjustment,Process,5
+1662,2026-06-24,Night,DRYER_1,Wet bin empty,Starved,106
+1663,2026-06-24,Night,DRYER_2,Moisture control out of spec,Process,10
+1664,2026-06-25,Day,DRYER_1,Belt tracking,Mechanical,10
+1665,2026-06-25,Day,DRYER_1,Dryer plug / material buildup,Process,15
+1666,2026-06-25,Day,DRYER_1,Operator adjustment,Process,15
+1667,2026-06-25,Day,DRYER_1,Operator adjustment,Process,10
+1668,2026-06-25,Day,DRYER_1,Wet bin empty,Starved,18
+1669,2026-06-25,Day,DRYER_2,Operator adjustment,Process,5
+1670,2026-06-25,Night,DRYER_1,Spark detection trip,Fire/Safety,60
+1671,2026-06-25,Night,DRYER_1,Moisture control out of spec,Process,15
+1672,2026-06-25,Night,DRYER_1,ID fan damper fault,Mechanical,20
+1673,2026-06-25,Night,DRYER_1,Dry bin full,Blocked,63
+1674,2026-06-25,Night,DRYER_2,Moisture control out of spec,Process,20
+1675,2026-06-25,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1676,2026-06-26,Day,DRYER_1,Wet bin plug,Process,20
+1677,2026-06-26,Day,DRYER_1,ID fan damper fault,Mechanical,20
+1678,2026-06-26,Day,DRYER_1,Dryer plug / material buildup,Process,20
+1679,2026-06-26,Day,DRYER_1,Sensor fault reset,Electrical,5
+1680,2026-06-26,Day,DRYER_2,Moisture control out of spec,Process,25
+1681,2026-06-26,Day,DRYER_2,Wet bin plug,Process,25
+1682,2026-06-26,Day,DRYER_2,Sensor fault reset,Electrical,5
+1683,2026-06-26,Day,DRYER_2,Green end down - flaker,Starved,18
+1684,2026-06-26,Night,DRYER_1,Cyclone plug,Process,120
+1685,2026-06-26,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1686,2026-06-26,Night,DRYER_2,Wet bin plug,Process,25
+1687,2026-06-27,Day,DRYER_1,Wet bin plug,Process,50
+1688,2026-06-27,Day,DRYER_2,Dryer plug / material buildup,Process,25
+1689,2026-06-27,Day,DRYER_2,Minor jam clearing,Mechanical,10
+1690,2026-06-27,Night,DRYER_1,Spark detection trip,Fire/Safety,140
+1691,2026-06-27,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1692,2026-06-27,Night,DRYER_2,Temperature control loop fault,Electrical,30
+1693,2026-06-27,Night,DRYER_2,Wet bin empty,Starved,35
+1694,2026-06-28,Day,DRYER_1,Dry bin full,Blocked,30
+1695,2026-06-28,Day,DRYER_1,Press down,Blocked,26
+1696,2026-06-28,Day,DRYER_2,Green end down - flaker,Starved,31
+1697,2026-06-28,Night,DRYER_1,Drag chain failure,Mechanical,125
+1698,2026-06-28,Night,DRYER_1,Dryer plug / material buildup,Process,25
+1699,2026-06-28,Night,DRYER_1,Moisture control out of spec,Process,30
+1700,2026-06-28,Night,DRYER_1,Minor jam clearing,Mechanical,5
+1701,2026-06-28,Night,DRYER_2,Screen change,Changeover,70
+1702,2026-06-28,Night,DRYER_2,Burner flame-out,Process,45
+1703,2026-06-28,Night,DRYER_2,Minor jam clearing,Mechanical,5
+1704,2026-06-29,Day,DRYER_1,Sensor fault reset,Electrical,5
+1705,2026-06-29,Day,DRYER_2,Belt tracking,Mechanical,15
+1706,2026-06-29,Day,DRYER_2,Minor jam clearing,Mechanical,5
+1707,2026-06-29,Night,DRYER_1,Belt tracking,Mechanical,15
+1708,2026-06-29,Night,DRYER_1,Wet bin empty,Starved,57
+1709,2026-06-29,Night,DRYER_2,Temperature control loop fault,Electrical,50
+1710,2026-06-30,Day,DRYER_1,Wet bin plug,Process,45
+1711,2026-06-30,Day,DRYER_1,Temperature control loop fault,Electrical,40
+1712,2026-06-30,Day,DRYER_1,Dryer plug / material buildup,Process,45
+1713,2026-06-30,Day,DRYER_1,Sensor fault reset,Electrical,10
+1714,2026-06-30,Day,DRYER_1,Minor jam clearing,Mechanical,5
+1715,2026-06-30,Night,DRYER_1,Screen change,Changeover,55
+1716,2026-06-30,Night,DRYER_1,Dryer plug / material buildup,Process,35
+1717,2026-06-30,Night,DRYER_2,Wet bin empty,Starved,43
+1718,2026-06-30,Night,DRYER_2,Press down,Blocked,124
